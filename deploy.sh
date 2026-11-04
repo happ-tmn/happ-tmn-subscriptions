@@ -1,54 +1,98 @@
 #!/data/data/com.termux/files/usr/bin/bash
 set -euo pipefail
-cd "$(dirname "$0")"
+
+# Run safely from Android Downloads: Git itself works only in Termux's internal storage.
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)"
 OWNER='happ-tmn'
 REPO='happ-tmn-subscriptions'
 FULL="$OWNER/$REPO"
-for bin in git gh python; do command -v "$bin" >/dev/null || { echo "Сначала установи: pkg install git gh python -y"; exit 1; }; done
-[ -s sources.private.txt ] || { echo 'Нет файла sources.private.txt'; exit 1; }
+
+for bin in git gh python; do
+  if ! command -v "$bin" >/dev/null 2>&1; then
+    echo "Установи пакет: pkg install $bin -y"
+    exit 1
+  fi
+done
+
+if [ ! -s "$ROOT/sources.private.txt" ]; then
+  echo '❌ Источники пусты: sources.private.txt'
+  exit 1
+fi
+
 USER_LOGIN="$(gh api user --jq .login)"
 if [ "$USER_LOGIN" != "$OWNER" ]; then
-  echo "Сейчас в GitHub CLI аккаунт: $USER_LOGIN; нужен: $OWNER"
-  echo "Выполни: gh auth login -h github.com --git-protocol https --web"
-  echo "Затем: gh auth switch -h github.com -u $OWNER"
+  echo "❌ Активен аккаунт $USER_LOGIN, нужен $OWNER"
+  echo "gh auth switch -h github.com -u $OWNER"
   exit 1
 fi
-if [ -d .git ]; then
-  echo 'Git уже инициализирован в папке проекта'
-else
-  git init -b main
-fi
-git config --local user.name "${OWNER}"
-git config --local user.email '352484844+happ-tmn@users.noreply.github.com'
-# Isolate this repository from cached credentials of other GitHub accounts.
-git config --local --replace-all credential.helper ''
-git config --local --add credential.helper '!gh auth git-credential'
-# Never stage secret files; verify Git's ignore rules.
-if ! git check-ignore -q sources.private.txt; then
-  echo 'ОШИБКА: sources.private.txt не исключён из Git'
-  exit 1
-fi
-git add .github/workflows/refresh.yml collector.py tests README.md deploy.sh update_sources.sh .gitignore sub/.gitkeep
-if ! git diff --cached --quiet; then
-  git commit -m 'Initial subscription collector for happ-tmn'
-fi
+
+TMP_BASE="${TMPDIR:-${PREFIX:-/data/data/com.termux/files/usr}/tmp}"
+mkdir -p "$TMP_BASE"
+WORK="$(mktemp -d "$TMP_BASE/happ-tmn-deploy.XXXXXXXX")"
+trap 'rm -rf "$WORK"' EXIT
+DEST="$WORK/repo"
+
+IS_EXISTING=0
 if gh repo view "$FULL" >/dev/null 2>&1; then
-  echo "Репозиторий $FULL уже существует. Проверяю remote."
-  if git remote get-url origin >/dev/null 2>&1; then
-    git remote set-url origin "https://github.com/$FULL.git"
-  else
-    git remote add origin "https://github.com/$FULL.git"
-  fi
-  git push -u origin main
+  IS_EXISTING=1
+  echo "📂 Репозиторий $FULL найден: обновляю существующий проект"
+  git -c credential.helper= -c credential.helper='!gh auth git-credential' \
+    clone --branch main "https://github.com/$FULL.git" "$DEST"
 else
-  gh repo create "$FULL" --public --source=. --remote=origin --push --description 'Automated public proxy subscription lists for happ_tmn'
+  echo "📂 Создаю новый репозиторий $FULL"
+  mkdir -p "$DEST"
+  git -C "$DEST" init -b main
 fi
-# stdin prevents secret from appearing in shell args/logs.
-gh secret set SOURCES_TXT -R "$FULL" < sources.private.txt
-printf '%s\n' 'Четыре источника помещены в GitHub Actions Secret (адреса не опубликованы).'
-if ! gh workflow run refresh.yml -R "$FULL"; then
-  echo 'Workflow пока не запустился. Открой GitHub Actions и выбери Run workflow вручную.'
+
+FILES=(
+  '.github/workflows/refresh.yml' '.gitignore' 'README.md'
+  'collector.py' 'deploy.sh' 'update_sources.sh'
+  'tests/test_collector.py' 'sub/.gitkeep' 'assets/yinglong_banner.png'
+)
+for file in "${FILES[@]}"; do
+  if [ ! -f "$ROOT/$file" ]; then
+    echo "❌ Не найден $file в папке проекта"
+    exit 1
+  fi
+  mkdir -p "$(dirname "$DEST/$file")"
+  cp "$ROOT/$file" "$DEST/$file"
+done
+
+# Require strong ignore rules even when someone later changes the project.
+if ! git -C "$DEST" check-ignore -q sources.private.txt; then
+  echo '❌ sources.private.txt должен быть исключён из Git'
+  exit 1
 fi
-printf '%s\n' 'Подписки появятся после первого успешного GitHub Actions запуска:'
-printf 'https://raw.githubusercontent.com/%s/main/sub/all.txt\n' "$FULL"
-printf 'https://raw.githubusercontent.com/%s/main/sub/vless/reality-vision.txt\n' "$FULL"
+
+git -C "$DEST" config user.name "$OWNER"
+git -C "$DEST" config user.email '352484844+happ-tmn@users.noreply.github.com'
+git -C "$DEST" config --local --replace-all credential.helper ''
+git -C "$DEST" config --local --add credential.helper '!gh auth git-credential'
+git -C "$DEST" add -- "${FILES[@]}"
+
+if ! git -C "$DEST" diff --cached --quiet; then
+  git -C "$DEST" commit -m 'Update subscription collector and Yinglong README'
+else
+  echo '✅ Код уже актуален'
+fi
+
+if [ "$IS_EXISTING" -eq 1 ]; then
+  git -C "$DEST" push origin main
+else
+  gh repo create "$FULL" --public --source="$DEST" --remote=origin --push \
+    --description 'Happ TMN - auto-updating subscription collector'
+fi
+
+# URL list is stored as an Actions secret, never committed.
+gh secret set SOURCES_TXT -R "$FULL" < "$ROOT/sources.private.txt"
+echo '✅ Доноры сохранены в Actions Secret SOURCES_TXT'
+
+if gh workflow run refresh.yml -R "$FULL"; then
+  echo '✅ Запрошен первый/повторный запуск Actions'
+else
+  echo '⚠️ Нажми Run workflow в GitHub Actions вручную'
+fi
+
+echo "✅ Репозиторий: https://github.com/$FULL"
+echo "📄 TXT: https://raw.githubusercontent.com/$FULL/main/sub/all.txt"
+echo "💎 Vision: https://raw.githubusercontent.com/$FULL/main/sub/vless/reality-vision.txt"

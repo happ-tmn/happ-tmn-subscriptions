@@ -1,52 +1,105 @@
-# @happ_tmn · Subscription Collector
+<p align="center">
+  <img src="assets/yinglong_banner.png" alt="Happ TMN — крылатый дракон Инлун, сборщик VPN-подписок" width="100%">
+</p>
 
-Автоматический сборщик общедоступных VPN-конфигураций: GitHub Actions запускает обновление каждые 3 часа и публикует **обычные TXT** (без внешней Base64-кодировки). Владелец репозитория может запустить обновление вручную.
+<h1 align="center">🐉 Happ TMN — подписки для Nekobox</h1>
 
-## Подписки
+<p align="center">
+  <b>VLESS · VMess · Trojan · Shadowsocks · SSR · Hysteria2 · TUIC</b><br>
+  Автоматическое обновление · обычный TXT · отдельная Reality Vision
+</p>
 
-Замените `<OWNER>` на `happ-tmn`, а `<REPO>` на `happ-tmn-subscriptions`. Формат:
+<p align="center">
+  <a href="https://t.me/happ_tmn"><b>💙 Подпишись на наш Telegram-канал @happ_tmn</b></a>
+</p>
 
-`https://raw.githubusercontent.com/<OWNER>/<REPO>/main/sub/all.txt`
+---
 
-- `sub/all.txt` — все поддерживаемые конфигурации
-- `sub/vless.txt`, `sub/vmess.txt`, `sub/trojan.txt`, `sub/ss.txt`, `sub/ssr.txt`, `sub/hysteria2.txt`, `sub/tuic.txt`
-- `sub/tls.txt`, `sub/reality.txt`, `sub/ws.txt`, `sub/xhttp.txt`, `sub/grpc.txt`, `sub/tcp.txt`, `sub/httpupgrade.txt`, `sub/h2.txt`, `sub/none.txt`
-- `sub/vless/tls/ws.txt`, `sub/vless/reality.txt`, **`sub/vless/reality-vision.txt`**, `sub/vless/xhttp.txt`
-- `sub/trojan/tls.txt`, `sub/vmess/tls/ws.txt`
-- `sub/pages/all-001.txt`, `all-002.txt` и далее — части большой подписки
-- `status.json` — суммарные счётчики обновления; **адресов источников в статусе нет**
+## ✨ О проекте
 
-Reality Vision отбирается строго по сочетанию `security=reality` **и** `flow=xtls-rprx-vision`. Весь query string включая `flow`, `sni`, `pbk`, `sid`, `fp`, `host`, `path`, нестандартные порты и прочее сохраняется **байт-в-байт** для URL-конфигов: меняется только имя после `#`. VMess сохраняет все JSON-поля, меняя только `ps`. SSR сохраняет параметры, меняя лишь `remarks`. Оригинальные эмодзи-флаги стран входят в новое название вида `🇸🇬 @happ_tmn a1b2c3`.
+**Happ TMN Subscriptions** собирает общедоступные конфигурации из нескольких источников, убирает дубликаты, сортирует по протоколам и публикует удобные **TXT-подписки** для Nekobox, v2rayNG и совместимых клиентов.
 
-## Первый запуск (Termux)
+- 🔄 **Обновление каждые 3 часа** через GitHub Actions (cron `17 */3 * * *`, UTC).
+- 🏷️ **Единый стиль:** имена конфигураций превращаются в `🇸🇬 @happ_tmn a1b2c3` с сохранением исходных эмодзи-флагов.
+- 🔐 **Все параметры подключения сохраняются:** UUID, IP, порт, `flow`, `sni`, `pbk`, `sid`, `fp`, `host`, `path`, `security`, `type` и другие поля. У URL-ссылок меняется только часть после `#`; у VMess — только поле `ps`; у SSR — только `remarks`.
+- 💎 **Отдельная подписка VLESS Reality Vision:** только узлы с `security=reality` и `flow=xtls-rprx-vision`.
+- 📄 **Никакого Base64-оборачивания всей страницы:** каждая ссылка выдаётся обычной строкой в `.txt`.
 
-1. Распакуйте скачанный ZIP **в папку Downloads**. В нём `sources.private.txt` — приватный локальный список доноров.
-2. Установите `git`, `gh`, `python`: `pkg install git gh python -y`.
-3. Авторизуйтесь в `gh` как **happ-tmn** (не другой GitHub-аккаунт): `gh auth login --hostname github.com --git-protocol https --web` и при необходимости `gh auth switch --hostname github.com --user happ-tmn`.
-4. В Termux перейдите в извлечённую папку и выполните `bash deploy.sh`. Скрипт создаст **публичный** репозиторий `happ-tmn/happ-tmn-subscriptions`, загрузит в него код **без файла доноров**, сохранит URL-источники в **Actions Secret `SOURCES_TXT`** и вручную запустит первое обновление.
-5. Откройте вкладку Actions нового репозитория и проверьте успешность запуска. Только после этого импортируйте подписку в Nekobox. Если Actions отклоняет отправку с `403`, проверьте **Settings → Actions → General → Workflow permissions → Read and write permissions**.
+## 📥 Подписки
 
-⚠️ Не загружайте `sources.private.txt` через интерфейс GitHub вручную, даже в историю коммитов. Список скрыт от посетителей, но **не от самой платформы GitHub**. Конфигурации могут раскрывать хосты косвенно. Публичный код и сгенерированные конфиги также видны GitHub. Скрипт не делает реальных сетевых тестов прокси; выдача URL не гарантирует работоспособность узла.
+> Ссылки начнут отдавать данные **после первого успешного запуска** GitHub Actions. Пустая выборка означает, что у источников не нашлось конфигураций нужного типа.
 
-## Изменение источников
+| Подписка | TXT |
+|:--|:--|
+| 🌐 **Все конфигурации** | [sub/all.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/all.txt) |
+| 💎 **VLESS Reality Vision** | [sub/vless/reality-vision.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality-vision.txt) |
+| 🔐 VLESS Reality | [sub/vless/reality.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality.txt) |
+| ⚡ VLESS | [sub/vless.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless.txt) |
+| 📡 VMess | [sub/vmess.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess.txt) |
+| 🛡️ Trojan | [sub/trojan.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan.txt) |
+| 🌀 Shadowsocks | [sub/ss.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ss.txt) |
+| 🌊 SSR | [sub/ssr.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ssr.txt) |
+| 🚀 Hysteria2 | [sub/hysteria2.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/hysteria2.txt) |
+| ✨ TUIC | [sub/tuic.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tuic.txt) |
+| 🔗 WebSocket | [sub/ws.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ws.txt) |
+| 📦 XHTTP | [sub/xhttp.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/xhttp.txt) |
+| 🧩 gRPC | [sub/grpc.txt](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/grpc.txt) |
 
-В Termux откройте локальный `sources.private.txt` и замените строки (по одному HTTPS URL на строку). Затем:
+Есть и другие фильтры: `tls`, `reality`, `none`, `tcp`, `httpupgrade`, `h2`, `vless/tls/ws`, `vless/xhttp`, `trojan/tls`, `vmess/tls/ws`. Если общая подписка слишком большая, она дополнительно разделяется на `sub/pages/all-001.txt`, `all-002.txt` и далее.
+
+## 🫶 Наш Telegram
+
+Новые конфигурации, новости и помощь с подключением — в нашем канале:
+
+### 👉 [Подпишись на @happ_tmn](https://t.me/happ_tmn)
+
+---
+
+<details>
+<summary><b>🛠️ Для администратора: установка через Termux</b></summary>
+
+1. Распакуй архив проекта в `Downloads`. Не выкладывай архив целиком в публичный репозиторий: в нём есть локальный список доноров.
+2. Убедись, что установлены `git`, `gh` и `python` (если зеркало Termux отвечает `429`, поменяй зеркало через `termux-change-repo`).
+3. Авторизуй GitHub CLI именно под `happ-tmn`.
+4. Из папки Downloads запускай:
+
+```bash
+cd ~/storage/downloads/happ_tmn_subscriptions
+gh auth switch -h github.com -u happ-tmn
+bash deploy.sh
+```
+
+`deploy.sh` сам использует **временную рабочую папку внутри Termux** для Git, поэтому запуск из Android Downloads безопасен. Он создаёт репозиторий `happ-tmn/happ-tmn-subscriptions` (если его нет), публикует код и баннер, добавляет список доноров в GitHub Actions Secret `SOURCES_TXT` и запускает обновление.
+
+### Замена источников
+
+Открой локальный `sources.private.txt` в Downloads и замени строки (по одному HTTPS-адресу на строку), затем выполни:
 
 ```bash
 cd ~/storage/downloads/happ_tmn_subscriptions
 bash update_sources.sh
 ```
 
-Скрипт обновит секрет `SOURCES_TXT` и запросит новый запуск workflow. **Публичный репозиторий от этих действий не получит файл с донорскими ссылками.** При ошибке загрузки одного из источников прежний опубликованный снимок не заменяется неполным (если он уже был).
+Не публикуй `sources.private.txt` и токены в GitHub. Секреты Actions не видны обычным посетителям, но GitHub технически обрабатывает их во время выполнения.
 
-## Полезное
+### Управление обновлением
 
-- Ручной запуск в Termux: `gh workflow run refresh.yml -R happ-tmn/happ-tmn-subscriptions`
-- Мониторинг: `gh run list -R happ-tmn/happ-tmn-subscriptions --limit 5`
-- Скачать актуальную TXT-подписку: `https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/all.txt`
-- Протоколы: VLESS / VMess / Trojan / SS / SSR / Hysteria2 / TUIC; дополнительно парсятся SOCKS и HTTP с явным портом (в группе `all`).
-- Некоторые клиенты Nekobox не поддерживают всякий тип конфигураций — используйте специализированную подписку.
+```bash
+gh workflow run refresh.yml -R happ-tmn/happ-tmn-subscriptions
+gh run list -R happ-tmn/happ-tmn-subscriptions --limit 5
+```
 
-## Ограничения
+Если Actions не может отправить результат (`403`), проверь **Settings → Actions → General → Workflow permissions → Read and write permissions**. В `status.json` публикуется статистика без исходных URL.
 
-Это сборщик ссылок, **не сервер** VLESS/Reality. Он не создаёт новые узлы, а группирует конфигурации из указанных источников, без проверки подключения. Используйте источники с разрешённой перепубликацией и соблюдайте условия GitHub и поставщиков данных. Плановое задание Actions может задержаться; ручной запуск предусмотрен.
+</details>
+
+<details>
+<summary><b>ℹ️ Ограничения и безопасность</b></summary>
+
+Это **сборщик готовых конфигураций**, а не сервер VLESS/Reality. Он не создаёт новые узлы и **не проверяет реальное соединение** с каждым прокси. Работоспособность, срок жизни и доступность зависят от их владельцев. Некоторые клиенты не поддерживают все типы URI, поэтому предпочтительны специализированные подписки. Для источников соблюдай условия перепубликации и правила площадок.
+
+</details>
+
+<p align="center">
+  <b>🐉 Happ TMN</b> · <a href="https://t.me/happ_tmn">Telegram: @happ_tmn</a>
+</p>
