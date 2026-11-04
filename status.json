@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-11-04T16:29:09+00:00",
+  "total": 4004,
+  "sources_total": 4,
+  "sources_ok": 4,
+  "partial": false,
+  "groups": {
+    "all": 4004,
+    "vless": 2426,
+    "vmess": 285,
+    "trojan": 327,
+    "ss": 295,
+    "ssr": 3,
+    "hysteria2": 652,
+    "tuic": 16,
+    "tls": 937,
+    "reality": 1667,
+    "none": 1384,
+    "ws": 556,
+    "xhttp": 213,
+    "grpc": 344,
+    "tcp": 2373,
+    "httpupgrade": 2,
+    "h2": 0,
+    "vless/tls/ws": 312,
+    "vless/reality": 1667,
+    "vless/reality-vision": 1129,
+    "vless/xhttp": 213,
+    "trojan/tls": 146,
+    "vmess/tls/ws": 93
+  },
+  "note": "Protocol match only; network reachability is not verified"
+}
