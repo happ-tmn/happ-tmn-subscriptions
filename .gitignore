@@ -1,0 +1,12 @@
+# Never publish donor URLs, keys, sessions, or local cache
+sources.private.txt
+sources.private.*
+.env
+.env.*
+*.session
+*.session-journal
+*.key
+*.pem
+__pycache__/
+*.pyc
+.venv/

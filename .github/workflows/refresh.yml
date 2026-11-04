@@ -1,0 +1,44 @@
+name: Update public subscriptions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: subscriptions-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test renaming and filtering
+        run: python -m unittest discover -s tests -v
+      - name: Refresh subscriptions
+        env:
+          SOURCES_TXT: ${{ secrets.SOURCES_TXT }}
+        run: python collector.py
+      - name: Publish resulting TXT files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- sub/ status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh subscriptions'
+            git push origin HEAD:main
+          else
+            echo 'No changes to publish'
+          fi
