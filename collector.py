@@ -61,7 +61,7 @@ def country_flags(name: str) -> str:
 
 def display_name(old_name: str, fingerprint: str) -> str:
     flags = country_flags(old_name)
-    return f'{flags} {BRAND} {fingerprint[:6]}'.strip()
+    return f'{flags} {BRAND}'.strip()
 
 
 def opts_from_query(query: str) -> dict[str, str]:

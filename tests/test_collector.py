@@ -18,7 +18,7 @@ class SubscriptionTests(unittest.TestCase):
         got = collector.normalize(uri)
         self.assertIsNotNone(got)
         self.assertEqual(got['line'].split('#')[0], uri.split('#')[0])
-        self.assertTrue(unquote(got['line'].split('#')[1]).startswith('🇺🇸 @happ_tmn '))
+        self.assertEqual(unquote(got['line'].split('#')[1]), '🇺🇸 @happ_tmn')
         self.assertTrue(collector.in_group(got, 'vless/tls/ws'))
         self.assertFalse(collector.in_group(got, 'vless/reality-vision'))
 
@@ -30,7 +30,7 @@ class SubscriptionTests(unittest.TestCase):
         self.assertEqual(got['line'].split('#')[0], uri.split('#')[0])
         self.assertTrue(collector.in_group(got, 'vless/reality'))
         self.assertTrue(collector.in_group(got, 'vless/reality-vision'))
-        self.assertTrue(unquote(got['line'].split('#')[1]).startswith('🇸🇬 @happ_tmn '))
+        self.assertEqual(unquote(got['line'].split('#')[1]), '🇸🇬 @happ_tmn')
         not_vision = collector.normalize(uri.replace('flow=xtls-rprx-vision', 'flow='))
         self.assertFalse(collector.in_group(not_vision, 'vless/reality-vision'))
 
@@ -50,7 +50,7 @@ class SubscriptionTests(unittest.TestCase):
         got = collector.normalize(coded)
         self.assertIsNotNone(got)
         decoded = json.loads(collector.b64decode_utf8(got['line'][8:]))
-        self.assertTrue(decoded['ps'].startswith('🇩🇪 @happ_tmn'))
+        self.assertEqual(decoded['ps'], '🇩🇪 @happ_tmn')
         self.assertEqual({k:v for k,v in decoded.items() if k != 'ps'}, {k:v for k,v in src.items() if k != 'ps'})
         self.assertTrue(collector.in_group(got, 'vmess/tls/ws'))
 
