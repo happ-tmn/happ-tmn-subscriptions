@@ -103,8 +103,8 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444?sni=fl3.nexf
 hysteria2://61c4be90-6235-11ec-a8bf-f23c91cfbbc9@00048af8-tmeqo0-tr9h64-1f1f1.sg7.hyhuawei.com:443?sni=00048af8-tmeqo0-tr9h64-1f1f1.sg7.hyhuawei.com#%40happ_tmn%20a9a92d
 hysteria2://78585441-c8b3-40fb-9b94-15edd312fdcf@107.172.16.232:44444?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn%20f21598
 hysteria2://bdf3e15e-c64c-11ea-82ef-f23c9164ca5d@ae410052-tmm5c0-tsdg75-tlhh.nw4.hyhuawei.com:443?sni=ae410052-tmm5c0-tsdg75-tlhh.nw4.hyhuawei.com#%40happ_tmn%20d6c6b9
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclickvpnkeys#%40happ_tmn%204a1860
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=off#%40happ_tmn%20c4bbd5
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclickvpnkeys#%40happ_tmn%204a1860
 hysteria2://adbd0a82-3336-11ed-bd7c-f23c913c8d2b@99ae88c3-tmm5c0-truoje-1uni.los.hyhuawei.com:443?sni=99ae88c3-tmm5c0-truoje-1uni.los.hyhuawei.com#%40happ_tmn%20930d96
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https:#%40happ_tmn%20a7535d
 hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@112.120.123.140:443?sni=193d0c41-tm96o0-tnggms-6gn6.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn%20a01ea3
@@ -649,4 +649,4 @@ hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8445?sni=vpn.lo
 hysteria2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@e4e8e68f-tmm5c0-tny186-4lg6.nw4.hyhuawei.com:443?sni=e4e8e68f-tmm5c0-tny186-4lg6.nw4.hyhuawei.com#%40happ_tmn%2036ff35
 hysteria2://bdf3e15e-c64c-11ea-82ef-f23c9164ca5d@6b9f9b99-tmm5c0-tsdg75-tlhh.los.hyhuawei.com:443#%40happ_tmn%20b69e5d
 hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn%2062f008
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?insecure=0&sni=pl2.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn%203b25f2
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?sni=pl2.nexfile.net&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn%20c15ca3
