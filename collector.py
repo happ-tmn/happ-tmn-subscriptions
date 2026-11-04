@@ -22,7 +22,7 @@ BRAND = '@happ_tmn'
 SUPPORTED = {'vless', 'vmess', 'trojan', 'ss', 'ssr', 'hy2', 'hysteria', 'hysteria2', 'tuic', 'socks', 'socks5', 'http', 'https'}
 URI_RE = re.compile(r'^([a-zA-Z][\w+.-]*)://', re.I)
 FLAG_RE = re.compile(r'[\U0001f1e6-\U0001f1ff]{2}')
-MAX_SOURCE_BYTES = 22_000_000
+MAX_SOURCE_BYTES = 64_000_000
 MAX_NODES = 130_000
 FETCH_TIMEOUT = 35
 PAGE_LIMIT = 2_100_000
@@ -68,6 +68,35 @@ def opts_from_query(query: str) -> dict[str, str]:
     return {k.lower(): v for k, v in parse_qsl(query, keep_blank_values=True)}
 
 
+
+def canonical_url_key(scheme: str, url) -> str:
+    """Canonical comparison only; NEVER changes the exported URI itself.
+
+    Avoids duplicate nodes when donors use reordered query arguments, a
+    different name/fragment, percent-encoding variations or mixed-case hosts.
+    Identity still contains account credentials, address, port, transport,
+    security and every non-label parameter; distinct servers are not merged.
+    """
+    pairs = []
+    for key, val in parse_qsl(url.query, keep_blank_values=True):
+        k = key.lower()
+        # These are metadata fields, not connection settings. They are still
+        # preserved in the *published* URI for the chosen representative.
+        if k in {'remarks', 'remark', 'name', 'ps'}:
+            continue
+        if k in {'sni', 'server_name', 'servername', 'host', 'security', 'type',
+                 'network', 'net', 'tls', 'fp', 'fingerprint'}:
+            val = val.lower()
+        pairs.append((k, val))
+    pairs.sort()
+    # For the host, DNS names are case-insensitive. Userinfo/password remain
+    # case-sensitive: both can distinguish otherwise identical endpoints.
+    identity = [scheme.lower(), url.username or '', url.password or '',
+                (url.hostname or '').lower(), url.port, url.path,
+                sorted(pairs)]
+    return scheme.lower() + ':' + json.dumps(identity, ensure_ascii=False, separators=(',', ':'))
+
+
 def normalize(raw: str) -> dict | None:
     line = raw.strip().strip('\ufeff')
     # Support lines wrapped in markdown quotes without changing URI internals.
@@ -91,6 +120,12 @@ def normalize(raw: str) -> dict | None:
             old_name = str(source_json.get('ps') or '')
             no_name = dict(source_json)
             no_name['ps'] = ''
+            # VMess often uses '443' and 443 interchangeably.
+            if 'port' in no_name:
+                no_name['port'] = str(no_name['port'])
+            for field in ('add', 'sni', 'tls', 'net'):
+                if isinstance(no_name.get(field), str):
+                    no_name[field] = no_name[field].lower()
             dedup = 'vmess-json:' + json.dumps(no_name, ensure_ascii=False, sort_keys=True, separators=(',', ':'))
             fingerprint = hashlib.sha256(dedup.encode()).hexdigest()
             source_json['ps'] = display_name(old_name, fingerprint)
@@ -118,7 +153,7 @@ def normalize(raw: str) -> dict | None:
                         old_name = ''
                 else:
                     kept.append(item)
-            dedup = 'ssr:' + core + '/?' + '&'.join(kept)
+            dedup = 'ssr:' + core + '/?' + '&'.join(sorted(kept))
             fingerprint = hashlib.sha256(dedup.encode()).hexdigest()
             kept.append('remarks=' + b64encode_utf8(display_name(old_name, fingerprint), padding=False))
             rebuilt = core + '/?' + '&'.join(kept)
@@ -136,7 +171,11 @@ def normalize(raw: str) -> dict | None:
         return None
     original_without_remark = line.split('#', 1)[0]
     old_name = unquote(url.fragment)
-    fingerprint = hashlib.sha256(original_without_remark.encode('utf-8')).hexdigest()
+    try:
+        dedup = canonical_url_key(protocol, url)
+    except ValueError:
+        return None
+    fingerprint = hashlib.sha256(dedup.encode('utf-8')).hexdigest()
     new_name = quote(display_name(old_name, fingerprint), safe='')
     result = original_without_remark + '#' + new_name
     params = opts_from_query(url.query)
@@ -145,7 +184,7 @@ def normalize(raw: str) -> dict | None:
         security = 'tls'
     transport = (params.get('type') or params.get('network') or params.get('net') or 'tcp').lower()
     vision = protocol == 'vless' and security == 'reality' and params.get('flow', '').lower() == 'xtls-rprx-vision'
-    return dict(line=result, key=f'{protocol}:' + original_without_remark, protocol=protocol, security=security, transport=transport, vision=vision)
+    return dict(line=result, key=dedup, protocol=protocol, security=security, transport=transport, vision=vision)
 
 
 def extract_lines(text: str) -> list[str]:
@@ -217,6 +256,82 @@ def in_group(node: dict, group: str) -> bool:
     return t == group
 
 
+
+# Friendly README table gets regenerated together with status.json.
+GROUP_TITLES = {
+    'all': '🌍 Все конфигурации',
+    'vless': '⚡ VLESS', 'vmess': '📡 VMess', 'trojan': '🛡️ Trojan',
+    'ss': '🌪️ Shadowsocks', 'ssr': '🌊 ShadowsocksR',
+    'hysteria2': '🚀 Hysteria2', 'tuic': '✨ TUIC',
+    'tls': '🔒 TLS', 'reality': '🔐 Reality', 'none': '🔓 Без TLS / Reality',
+    'ws': '🌐 WebSocket', 'xhttp': '📦 XHTTP', 'grpc': '🧩 gRPC',
+    'tcp': '🔌 TCP', 'httpupgrade': '🔗 HTTPUpgrade', 'h2': '📨 HTTP/2',
+    'vless/tls/ws': '⚡ VLESS TLS WS',
+    'vless/reality': '🔐 VLESS Reality',
+    'vless/reality-vision': '💎 VLESS Reality Vision',
+    'vless/xhttp': '📦 VLESS XHTTP',
+    'trojan/tls': '🛡️ Trojan TLS',
+    'vmess/tls/ws': '📡 VMess TLS WS',
+}
+
+
+def update_readme_counts(counts: dict[str, int], *, updated_at: str,
+                         duplicates_removed: int = 0) -> bool:
+    """Replace only the subscriptions section, preserving the rest of README.
+
+    Requires the README in a supported human-facing layout. The source list,
+    passwords and account info are deliberately not included in the table.
+    """
+    readme = BASE_DIR / 'README.md'
+    if not readme.is_file():
+        return False
+    text = readme.read_text(encoding='utf-8')
+    start_match = re.search(r'(?m)^## 📥 (?:Выбери подписку|Подписки)\s*$', text)
+    if not start_match:
+        print('README counters: subscription heading not found; leaving README unchanged')
+        return False
+    tail = text[start_match.end():]
+    end_match = re.search(r'(?m)^## (?:📲 Как подключить|🫶 Наш Telegram|❓ Полезно знать)', tail)
+    if not end_match:
+        print('README counters: following section not found; leaving README unchanged')
+        return False
+    end = start_match.end() + end_match.start()
+    when = updated_at.replace('T', ' ').replace('+00:00', ' UTC')
+    table = [
+        '## 📥 Выбери подписку',
+        '',
+        f'**Всего конфигураций: {counts.get("all", 0):,}** · '
+        f'удалено повторов за сборку: **{duplicates_removed:,}** · '
+        f'обновлено: **{when}**.',
+        '',
+        'Нажми «Открыть TXT» или скопируй адрес ссылки в Nekobox.',
+        '',
+        '<!-- HAPP_TMN_COUNTS_START -->',
+        '| Подписка | Конфигураций | Ссылка |',
+        '|:--|--:|:--|',
+    ]
+    # Important groups first, other filters below.
+    order = ('all', 'vless/reality-vision', 'vless/reality', 'vless',
+             'vmess', 'trojan', 'ss', 'ssr', 'hysteria2', 'tuic',
+             'ws', 'xhttp', 'grpc', 'tls', 'reality', 'none', 'tcp',
+             'httpupgrade', 'h2', 'vless/tls/ws', 'vless/xhttp',
+             'trojan/tls', 'vmess/tls/ws')
+    for g in order:
+        path = g + '.txt'
+        url = 'https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/' + path
+        table.append(f'| {GROUP_TITLES[g]} | **{counts.get(g, 0):,}** | [Открыть TXT]({url}) |')
+    table.extend([
+        '<!-- HAPP_TMN_COUNTS_END -->', '',
+        '> Цифры показывают число записей, **не** количество проверенных работающих серверов. '
+        'Одна конфигурация может входить в несколько тематических подборок.',
+        '',
+    ])
+    updated = text[:start_match.start()] + '\n'.join(table) + '\n' + text[end:]
+    if updated != text:
+        readme.write_text(updated, encoding='utf-8')
+    return True
+
+
 def write_group(group: str, nodes: list[dict]) -> int:
     target = OUTPUT_DIR.joinpath(*group.split('/')).with_suffix('.txt')
     target.parent.mkdir(parents=True, exist_ok=True)
@@ -251,15 +366,21 @@ def run() -> int:
     seen: dict[str, dict] = {}
     errors = 0
     succeeded = 0
+    duplicates_removed = 0
+    valid_inputs = 0
     for index, url in enumerate(sources, 1):
         try:
             lines = download_source(url)
             new = 0
             for raw in lines:
                 item = normalize(raw)
-                if item and item['key'] not in seen and len(seen) < MAX_NODES:
-                    seen[item['key']] = item
-                    new += 1
+                if item:
+                    valid_inputs += 1
+                    if item['key'] in seen:
+                        duplicates_removed += 1
+                    elif len(seen) < MAX_NODES:
+                        seen[item['key']] = item
+                        new += 1
             succeeded += 1
             # Never print original URLs or node content in CI logs.
             print(f'Source {index}/{len(sources)}: fetched {len(lines)} entries, added {new} unique')
@@ -278,12 +399,15 @@ def run() -> int:
     for group in GROUPS:
         selected = [node for node in nodes if in_group(node, group)]
         counts[group] = write_group(group, selected)
-    status = dict(updated_at=datetime.now(timezone.utc).isoformat(timespec='seconds'),
-                  total=len(nodes), sources_total=len(sources), sources_ok=succeeded,
+    updated_at = datetime.now(timezone.utc).isoformat(timespec='seconds')
+    status = dict(updated_at=updated_at, total=len(nodes),
+                  valid_entries=valid_inputs, duplicates_removed=duplicates_removed,
+                  sources_total=len(sources), sources_ok=succeeded,
                   partial=bool(errors), groups=counts,
                   note='Protocol match only; network reachability is not verified')
     (BASE_DIR / 'status.json').write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(f'Published {len(nodes)} unique nodes across {len(GROUPS)} subscriptions; Reality Vision: {counts["vless/reality-vision"]}')
+    update_readme_counts(counts, updated_at=updated_at, duplicates_removed=duplicates_removed)
+    print(f'Published {len(nodes)} unique nodes (removed {duplicates_removed} duplicates) across {len(GROUPS)} subscriptions; Reality Vision: {counts["vless/reality-vision"]}')
     return 0
 
 

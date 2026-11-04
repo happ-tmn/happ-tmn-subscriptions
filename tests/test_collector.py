@@ -34,6 +34,9 @@ class SubscriptionTests(unittest.TestCase):
         not_vision = collector.normalize(uri.replace('flow=xtls-rprx-vision', 'flow='))
         self.assertFalse(collector.in_group(not_vision, 'vless/reality-vision'))
 
+    def test_bad_port_does_not_crash_collector(self):
+        self.assertIsNone(collector.normalize("vless://uuid@server.example:INVALID?security=tls#bad"))
+
     def test_dedup_ignores_old_label(self):
         a = collector.normalize('vless://u@1.2.3.4:443?security=tls#A')
         b = collector.normalize('vless://u@1.2.3.4:443?security=tls#B')
@@ -66,6 +69,44 @@ class SubscriptionTests(unittest.TestCase):
         lines = 'vless://u@host:443?security=tls#label\nss://abc@host:1234#label\n'
         text = collector.b64encode_utf8(lines)
         self.assertEqual(collector.extract_lines(text), lines.splitlines())
+
+    def test_dedup_matches_reordered_params_and_encoding_but_preserves_flags(self):
+        first = 'vless://id@NODE.example:443?path=%2Fa&security=reality&flow=xtls-rprx-vision&pbk=secret&sni=EXAMPLE.com#🇩🇪 old'
+        second = 'vless://id@node.example:443?sni=example.com&pbk=secret&flow=xtls-rprx-vision&security=reality&path=/a#🇺🇸 new'
+        a, b = collector.normalize(first), collector.normalize(second)
+        self.assertEqual(a['key'], b['key'])
+        self.assertEqual(a['line'].split('#')[0], first.split('#')[0])
+        self.assertEqual(b['line'].split('#')[0], second.split('#')[0])
+
+    def test_dedup_does_not_combine_different_connection_params(self):
+        base = 'vless://uuid@host.example:443?security=reality&pbk=key1&sni=one.example&flow=xtls-rprx-vision'
+        a = collector.normalize(base + '#one')
+        for alternative in (
+            base.replace('pbk=key1', 'pbk=key2'),
+            base.replace('sni=one.example', 'sni=two.example'),
+            base.replace(':443?', ':8443?'),
+            base.replace('uuid@', 'other-uuid@'),
+            base.replace('flow=xtls-rprx-vision', 'flow='),
+        ):
+            self.assertNotEqual(a['key'], collector.normalize(alternative + '#two')['key'])
+
+    def test_readme_counts_replace_only_subscription_section(self):
+        import tempfile
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as tmp:
+            base = pathlib.Path(tmp)
+            src = '# Intro\n\n## 📥 Выбери подписку\n\nOLD TABLE\n\n## 📲 Как подключить в Nekobox\n\nSECRET NO\n'
+            (base/'README.md').write_text(src, encoding='utf-8')
+            with patch.object(collector, 'BASE_DIR', base):
+                self.assertTrue(collector.update_readme_counts({'all': 17, 'vless/reality-vision': 4}, updated_at='2026-11-04T17:00:00+00:00', duplicates_removed=3))
+                self.assertTrue(collector.update_readme_counts({'all': 21, 'vless/reality-vision': 5}, updated_at='2026-11-04T20:00:00+00:00', duplicates_removed=7))
+            output = (base/'README.md').read_text(encoding='utf-8')
+            self.assertIn('**21**', output)
+            self.assertIn('**5**', output)
+            self.assertIn('**7**', output)
+            self.assertEqual(output.count('<!-- HAPP_TMN_COUNTS_START -->'), 1)
+            self.assertIn('SECRET NO', output)
+            self.assertNotIn('OLD TABLE', output)
 
     def test_query_values_unchanged(self):
         uri = 'trojan://p@host.example:2053?security=tls&type=ws&path=%2Fpath%3Fa%3Db&sni=host.example#remark'
