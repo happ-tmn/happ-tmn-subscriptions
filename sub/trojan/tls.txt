@@ -7,8 +7,10 @@ trojan://ZPZb_cl7NTrwH7my@sidwqer-production.up.railway.app:443?type=ws&security
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&fp=chrome&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.31:443?type=tcp&security=tls&fp=chrome&sni=unlockyourfuturefindyourperfectcareer.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#%40happ_tmn
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%40happ_tmn
 trojan://4c1511d220e1437b234fa40571c43810@tyy129.magiclampcloud.com:59443?type=tcp&security=tls&fp=chrome&sni=tyy129.magiclampcloud.com#%40happ_tmn
+trojan://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@www.threadless.com:2087?type=xhttp&security=tls&fp=chrome&sni=cdn.config7x.site&path=/7x-tj-xhttp-cdn&host=cdn.config7x.site&mode=auto#%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?security=tls&fp=chrome&sni=cdn.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&fp=chrome#%40happ_tmn
@@ -41,6 +43,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?type=tcp&security=t
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?type=tcp&security=tls&fp=chrome&sni=blog.unlockyourfuturefindyourperfectcareer.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=courses.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://gHQP0D7D15@104.16.186.130:2053?type=ws&security=tls&fp=unsafe&sni=marvdasht.phonecomparisonblog.org&host=marvdasht.phonecomparisonblog.org&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}#%40happ_tmn
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?type=tcp&security=tls&fp=chrome&sni=ph001.zestapp778.com#%40happ_tmn
+trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&type=tcp&security=tls&fp=chrome#%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?type=tcp&security=tls&fp=chrome&sni=learn.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&fp=chrome&sni=blog.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 trojan://gHQP0D7D15@104.18.0.1:2053?type=ws&security=tls&fp=chrome&sni=marvdasht.phonecomparisonblog.org&host=marvdasht.phonecomparisonblog.org&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1#%40happ_tmn
@@ -63,6 +67,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&fp=chr
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?type=tcp&security=tls&fp=chrome&sni=api.browseseniorrolesandenhanceyourcareertoday.com&host=/?telegram---marambashi---marambashi---marambashi---marambashi#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?security=tls&fp=chrome&sni=findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp&security=tls&fp=chrome#%40happ_tmn
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?type=tcp&security=tls&fp=chrome&sni=in002.zestapp778.com#%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&fp=chrome&sni=learn.unlockyourfuturefindyourperfectcareer.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -72,18 +77,21 @@ trojan://MiTiVPN@199.232.78.120:443?alpn=http%2F1.1&host=mtlooabmakaakaoijji.glo
 trojan://gHQP0D7D15@172.66.0.1:2053?alpn=http%2F1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 trojan://gHQP0D7D15@104.18.0.1:2053?alpn=http%2F1.1&host=marvdasht.phonecomparisonblog.org&insecure=0&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp#%F0%9F%87%B5%F0%9F%87%AD%20%40happ_tmn
-trojan://mitivpn@199.232.78.158:443?sni=global.fastly.com&peer=global.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-trojan://MiTiVPN@167.82.79.164:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-trojan://Mitivpn@151.101.110.219:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+trojan://humanity@162.159.38.119:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls&allowInsecure=1#%40happ_tmn
+trojan://humanity@104.18.35.86:443?sni=www.volumerOot.coM.&peer=www.volumerOot.coM.&security=tls&allowInsecure=1#%40happ_tmn
 trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls&allowInsecure=1#%40happ_tmn
-trojan://MiTiVPN@167.82.96.58:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+trojan://mitivpn@199.232.78.158:443?sni=global.fastly.com&peer=global.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://8r%3C%5B9'l6hAO%238ZQi@8.6.112.0:2096?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls&allowInsecure=1#%40happ_tmn
-trojan://MiTiVPN@167.82.101.75:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-trojan://MiTiVPN@185.31.18.255:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://MiTiVPN@199.232.78.20:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-trojan://nzrc4ma4087c1ukr@188.114.96.4:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls&allowInsecure=1#%40happ_tmn
 trojan://MiTiVPN@167.82.76.27:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://nzrc4ma4087c1ukr@188.114.96.5:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls&allowInsecure=1#%40happ_tmn
+trojan://nzrc4ma4087c1ukr@188.114.96.4:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls&allowInsecure=1#%40happ_tmn
+trojan://MiTiVPN@167.82.79.164:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://nzrc4ma4087c1ukr@188.114.96.1:2083?sni=dl2.rahetejarat.com&peer=dl2.rahetejarat.com&security=tls&allowInsecure=1#%40happ_tmn
 trojan://Mitivpn@167.82.101.251:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20061?type=raw&security=tls&sni=hk.catxstar.com&alpn=http%2F1.1&fp=chrome&headertype=none&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
+trojan://gHQP0D7D15@104.24.0.1:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&host=marvdasht.phonecomparisonblog.org&alpn=http%2F1.1&fp=chrome&ech=cloudflare-ech.com+udp%3A%2F%2F1.1.1.1&allowInsecure=1#%40happ_tmn
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?sni=hk.catxstar.com&peer=hk.catxstar.com&security=tls&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%40happ_tmn
+trojan://humanity@8.47.69.0:443?sni=www.pleadcourt.org&peer=www.pleadcourt.org&security=tls&allowInsecure=1#%40happ_tmn
+trojan://humanity@104.25.108.234:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls&allowInsecure=1#%40happ_tmn
+trojan://MiTiVPN@167.82.96.58:443?sni=ssl.fastly.com&peer=ssl.fastly.com&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+trojan://gHQP0D7D15@104.18.0.1:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=1&sni=marvdasht.phonecomparisonblog.org&host=marvdasht.phonecomparisonblog.org&alpn=http%2F1.1&fp=chrome&ech=cloudflare-ech.com+udp%3A%2F%2F1.1.1.1#%40happ_tmn

@@ -1,3 +1,4 @@
+tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@58.152.81.104:443?sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&congestion_control=bbr#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443#%40happ_tmn
 tuic://aed1cc24-351d-11ef-ba52-f23c9164ca5d:aed1cc24-351d-11ef-ba52-f23c9164ca5d@1fd0c4d5-tk7400-tlbcwm-1rfon.pccw3.hyhuawei.com:443?sni=#%40happ_tmn
 tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com&udp_relay_mode=native#%40happ_tmn
