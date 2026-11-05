@@ -786,4 +786,3 @@ hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@f452bbe9-tmm5c0-tpda83-1lkbs.lo
 hysteria2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@24407910-tmm5c0-trnd2c-jjv2.los.hyhuawei.com:443#%40happ_tmn
 hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@78bc7982-tmm5c0-u0aht1-1rz5s.hk3.hyhuawei.com:443?sni=78bc7982-tmm5c0-u0aht1-1rz5s.hk3.hyhuawei.com#%40happ_tmn
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8445?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
-hysteria2://d105c6ae-621b-47c1-b85b-075fd6a39aca@144.24.109.215:51000?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%AE%F0%9F%87%B3%20%40happ_tmn

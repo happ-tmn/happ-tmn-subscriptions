@@ -26,6 +26,7 @@ vmess://d2b67e48-c341-47ba-8caa-5658df693ac4@getnet.serversubasli.top:8080?type=
 vmess://f23bb427-c1f9-4373-876c-2f43e9f790f3@lcv8v9l7oyamxxfz.v.3dns.vip:443?type=ws&security=tls&path=/ws-vmess&host=lcv8v9l7oyamxxfz.v.3dns.vip#%40happ_tmn
 vmess://80be2deb-3b27-4775-9bd1-7f2a2b9c261b@wwww.speedtest.org:443?type=ws&security=tls&path=/truth&host=www.windowsmsidownloads.com&sni=www.windowsmsidownloads.com&fp=ios#%40happ_tmn
 vmess://d2b67e48-c341-47ba-8caa-5658df693ac4@getnet.serversubasli.top:8080?type=ws&security=tls&path=/#%40happ_tmn
+vmess://f48088dd-e933-4741-bc08-cc450f7e3b12@uiewtesty-production.up.railway.app:443?type=ws&security=tls&path=/api/QjsknC&host=uiewtesty-production.up.railway.app&sni=uiewtesty-production.up.railway.app&fp=chrome#%40happ_tmn
 vmess://ba1116e2-8c2f-4e3d-8e50-c954360cf970@www.windowssearchtools.com:443?type=ws&security=tls&path=/truth&host=www.windowssearchtools.com#%40happ_tmn
 vmess://f23bb427-c1f9-4373-876c-2f43e9f790f3@47.243.194.125:443?type=ws&security=tls&path=/ws-vmess&host=nycqg19zkwacpm1b.v.3dns.vip#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 vmess://80be2deb-3b27-4775-9bd1-7f2a2b9c261b@188.114.96.1:443?type=ws&security=tls&path=/truth&host=www.windowsmsidownloads.com&sni=www.windowsmsidownloads.com#%40happ_tmn
@@ -40,6 +41,7 @@ vmess://83b09a64-1eaf-4c4d-89ed-866d4b6b8115@www.speedtest.net:443?encryption=au
 vmess://a9f4de8b-68f1-44b6-b6a2-1db60940503a@nomino.11hi8itbaf.workers.dev:443?type=ws&security=tls&path=/wjofHsQtEuEywxEq.v.3dns.vip/ws-vmess&host=nomino.11hi8itbaf.workers.dev#%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?type=ws&security=tls&path=/lMnsZUN4/&host=v2ray1.dozapp.xyz&sni=v2ray1.dozapp.xyz&fp=chrome#%40happ_tmn
 vmess://ac251237-576f-40c8-a543-554960c958b1@or3.sfacg.uk:2083?type=ws&security=tls&path=/or3&host=or3.sfacg.uk&sni=cdn.sfacg.uk#%40happ_tmn
+vmess://d2b67e48-c341-47ba-8caa-5658df693ac4@getnet.serversubasli.top:8080?type=ws&security=tls&sni=getnet.serversubasli.top&fp=chrome#%40happ_tmn
 vmess://6a89a215-22bf-4bd7-9642-b95b2e09583a@guanwang.awsno.com:443?type=ws&security=tls&path=/hls/cctv5phd.m3u8#%40happ_tmn
 vmess://fa6559bc-f43b-4d86-b7c5-13cca522e3f2@185.209.179.23:443?type=ws&security=tls&path=/Telegram=@AmyraxVPN&host=rich-claw.nyc.boxd.sh&sni=rich-claw.nyc.boxd.sh#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://83b09a64-1eaf-4c4d-89ed-866d4b6b8115@172.67.221.77:443?type=ws&security=tls&path=/truth&sni=www.ubuntuupdates.com#%40happ_tmn
@@ -63,7 +65,6 @@ vmess://60441548-b68e-43b2-8191-e3b884be4b3c@172.67.167.78:8443?type=ws&security
 vmess://f23bb427-c1f9-4373-876c-2f43e9f790f3@8.217.254.88:443?type=ws&security=tls&path=/ws-vmess&host=2b9hwy8ocx7q74nm.v.3dns.vip&sni=2b9hwy8ocx7q74nm.v.3dns.vip&fp=random#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@172.67.161.144:8443?type=ws&security=tls&path=/lMnsZUN4/&sni=v2ray1.dozapp.xyz#%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@chatgpt.com:8443?type=ws&security=tls&path=/lMnsZUN4/&sni=v2ray1.dozapp.xyz#%40happ_tmn
-vmess://d2b67e48-c341-47ba-8caa-5658df693ac4@getnet.serversubasli.top:8080?type=ws&security=tls&sni=getnet.serversubasli.top&fp=chrome#%40happ_tmn
 vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.17.136.198:443?type=ws&security=tls&path=/ws&host=vmess.lbw666.dpdns.org#%40happ_tmn
 vmess://598395e6-f4e3-46fa-ba85-0a8e48c9d677@104.160.191.43:443?type=ws&security=tls&path=/api/v1/graphql&host=cg1c02.waimaojd.com&sni=cg1c02.waimaojd.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://f23bb427-c1f9-4373-876c-2f43e9f790f3@8.217.254.88:443?type=ws&security=tls&path=/ws-vmess&host=2b9hwy8ocx7q74nm.v.3dns.vip&sni=2b9hwy8ocx7q74nm.v.3dns.vip#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -104,6 +105,7 @@ vmess://f23bb427-c1f9-4373-876c-2f43e9f790f3@47.243.65.243:443?type=ws&security=
 vmess://a9f4de8b-68f1-44b6-b6a2-1db60940503a@nomino.11hi8itbaf.workers.dev:443?type=ws&security=tls&path=/wjofHsQtEuEywxEq.v.3dns.vip/ws-vmess&host=nomino.11hi8itbaf.workers.dev&fp=chrome#%40happ_tmn
 vmess://a9f4de8b-68f1-44b6-b6a2-1db60940503a@wjofhsqteueywxeq.v.3dns.vip:443?type=ws&security=tls&path=/ws-vmess&host=wjofhsqteueywxeq.v.3dns.vip#%40happ_tmn
 vmess://f23bb427-c1f9-4373-876c-2f43e9f790f3@vah4urdzl3jdx5r2.v.3dns.vip:443?type=ws&security=tls&path=/ws-vmess&host=vah4urdzl3jdx5r2.v.3dns.vip&sni=vah4urdzl3jdx5r2.v.3dns.vip#%40happ_tmn
-vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IkBoYXBwX3RtbiIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQGhhcHBfdG1uIiwiYWRkIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwidGxzIjoidGxzIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIn0=
+vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOiIwIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAaGFwcF90bW4iLCJzY3kiOiJhdXRvIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOjAsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOiI4NDQzIiwicHMiOiJAaGFwcF90bW4iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQGhhcHBfdG1uIiwiYWRkIjoid3d3LnNob3BpZnkuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInRscyI6InRscyIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSJ9
