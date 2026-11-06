@@ -88,6 +88,7 @@ hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@8a24f231-tmm5c0-tujecz-1qkeg.nw
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33077?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://1d4937b0-9104-42ac-b4a2-ab01f678fd04@origin.hahaahhaah.com:443?sni=origin.hahaahhaah.com#%40happ_tmn
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#%F0%9F%87%B8%F0%9F%87%AA%20%40happ_tmn
+hysteria2://72dc58e9-2583-4905-9a32-0635217a0ad9@37.18.15.116:5555?sni=wl11.white-dns.cloud#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=google.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b@64.32.13.230:443?sni=ab42319f-tmm5c0-tmg311-141tv.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://1d4937b0-9104-42ac-b4a2-ab01f678fd04@feed.hahaahhaah.com:443?sni=feed.hahaahhaah.com#%40happ_tmn
@@ -253,7 +254,6 @@ hysteria2://p5xt6oLOA3qikIaj@fi-p1.h1cloud.net:25482?sni=www.bing.com&pinSHA256=
 hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@9a07c316-tmkao0-u1vxv2-v3c2.nw4.hyhuawei.com:443?sni=9a07c316-tmkao0-u1vxv2-v3c2.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@a4c15874-tmm5c0-tvvhcz-tl32.nw4.hyhuawei.com:443?sni=a4c15874-tmm5c0-tvvhcz-tl32.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?sni=bl1.nexfile.net#%F0%9F%87%A7%F0%9F%87%BE%20%40happ_tmn
-hysteria2://72dc58e9-2583-4905-9a32-0635217a0ad9@37.18.15.116:5555?sni=wl11.white-dns.cloud#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@1ba94b4c-tmm5c0-tw661e-1isea.los.hyhuawei.com:443?sni=1ba94b4c-tmm5c0-tw661e-1isea.los.hyhuawei.com#%40happ_tmn
 hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhuawei.com:443?sni=ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@4dfe79ca-tmm5c0-tpftcp-13x18.hk3.hyhuawei.com:443#%40happ_tmn
