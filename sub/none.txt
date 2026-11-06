@@ -11,8 +11,9 @@ hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443#%40happ_
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?type=ws#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?sni=3.76.221.4#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16291?type=tcp#%40happ_tmn
-vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16307?type=raw#%40happ_tmn
+trojan://13e6b9f9497485cdedfdc59328e6a8ad@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 vless://73796e63-0000-4000-8000-000000000007@104.21.64.198:2086?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%40happ_tmn
+vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16307?type=raw#%40happ_tmn
 hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@201.8.71.59:443?sni=steel7.hadsvpn.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&sni=marvdasht.phonecomparisonblog.org#%40happ_tmn
@@ -130,6 +131,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8
 trojan://f12507bcc9bbae297ed77b94d9232ae6@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@149.88.23.207:18000?type=tcp&host=--v2raynplus--v2raynplus--v2raynplus--#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https://t.me/wangcai2\x9f\x87\x9f\x87#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:2082?type=ws&host=sub.vicdn.dev#%40happ_tmn
 tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443#%40happ_tmn
 hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com:443?sni=0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com#%40happ_tmn
 hysteria2://44e76f8c-7362-11ec-bb74-f23c9164ca5d@64.32.13.230:443?sni=9507c324-tnhmo0-tohhws-zn8y.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -138,10 +140,11 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https://t.me/wangcai
 hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online#%40happ_tmn
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20%40happ_tmn
 hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20%40happ_tmn
+vmess://41a7089a-040b-4538-8b8d-010902405bde@140.238.2.250:443?type=tcp&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=202.146.222.89#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.240:4444?sni=fl3.nexfile.net#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
-hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@64.32.13.230:443?sni=7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw@64.49.12.39:8044?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@64.32.13.230:443?sni=7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@64.32.13.230:443?sni=b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?security=none&host=/?telegram#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
@@ -160,6 +163,7 @@ hysteria2://1d4937b0-9104-42ac-b4a2-ab01f678fd04@feed.hahaahhaah.com:443?sni=fee
 ss://YWVzLTI1Ni1nY206YzVQdExoeWxZNXIzakpRNlhsekdpT2RYZVlZbGh1LWs=@pg1.rmastore.ir:3039?#%40happ_tmn
 trojan://bb611501dbb9aea577fd803fe11e945d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 vmess://41a7089a-040b-4538-8b8d-010902405bde@140.238.2.250:443?type=raw&path=/#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp#%40happ_tmn
 hysteria2://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@95.85.252.217:8443?sni=speedtestmark.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443?sni=hy.cardlist24.shop#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=t.me&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
@@ -178,6 +182,7 @@ hysteria2://861726bb-c61a-b0e0-99fa-5ddfdcf21902@4c37a418-tmm5c0-ttxkqc-e06r.los
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444#%40happ_tmn
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882?#%F0%9F%87%B5%F0%9F%87%AD%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@195.238.126.20:9045?#%F0%9F%87%B1%F0%9F%87%B9%20%40happ_tmn
+vmess://4fc543d5-23ce-4556-ae2b-01685edd4397@120.48.133.162:10086?type=ws#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 trojan://3493ff930d879b214732f71d449538d6@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?type=ws&host=69.48.201.136#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21041?type=raw#%40happ_tmn
@@ -257,7 +262,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?#%F0%9F%87%BF%F0%9F%87%A6%20%40happ_tmn
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
-vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21020?type=tcp#%40happ_tmn
 hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@0a2298d1-tm3mo0-0-1rfon.los.hyhuawei.com:443?sni=0a2298d1-tm3mo0-0-1rfon.los.hyhuawei.com#%40happ_tmn
 hysteria2://c594c7ec-8b10-11ef-a2b8-f23c9164ca5d@0a9bf068-tnhmo0-toktib-1hhyy.nw4.hyhuawei.com:443?sni=0a9bf068-tnhmo0-toktib-1hhyy.nw4.hyhuawei.com#%40happ_tmn
 vmess://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?type=ws&path=/vmess/&host=3h-kazakhstan1.09vpn.com#%F0%9F%87%B0%F0%9F%87%BF%20%40happ_tmn
@@ -271,6 +275,7 @@ hysteria2://2c01eae6-0b6a-11ee-a058-f23c91369f2d@64.32.13.230:443?sni=e3e217d6-t
 hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@a30d91ee-tmm5c0-ttx5yr-1j0y6.nw4.hyhuawei.com:443?sni=a30d91ee-tmm5c0-ttx5yr-1j0y6.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@64.32.13.230:443?sni=ea01572c-tmm5c0-tnhx9s-1rnrp.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+vmess://96c987c9-c2d9-4993-b9bd-c9bc36255ee1@65.108.240.210:39018?type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.32.21:443?#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?type=ws&host=sc-thenetherlands2.09vpn.comfreenettirthe#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 vmess://f81d0fc9-c6b0-4dab-a270-6e697e0a367f@120.48.133.162:10086?type=ws#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -362,7 +367,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 trojan://2fa9fbc5087f5905380fcac2479e2156@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@188.114.97.6:80?type=ws&path=/ws?ed&host=vmess.lbw666.dpdns.org&fp=chrome#%40happ_tmn
-hysteria2://kztyblVC7ZlEKR3ZO5HW@142.11.207.17:443?sni=www.bing.com&up=50&down=200#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@f7f87486-tmm5c0-ts3rye-mrtr.nw4.hyhuawei.com:443?sni=f7f87486-tmm5c0-ts3rye-mrtr.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
@@ -394,6 +398,7 @@ hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443?sni=node.aweom
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@64.32.13.230:443?sni=807fc395-tmm5c0-u5ip77-duku.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@b503b615-tm96o0-tne5x4-1rfon.hk3.hyhuawei.com:443?sni=b503b615-tm96o0-tne5x4-1rfon.hk3.hyhuawei.com#%40happ_tmn
 hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@baf80640-tmm5c0-to0mym-z93q.nw4.hyhuawei.com:443?sni=baf80640-tmm5c0-to0mym-z93q.nw4.hyhuawei.com#%40happ_tmn
+vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-kr.kunlun01dns.com:21004?type=tcp#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16314?type=raw#%40happ_tmn
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&packetEncoding=none#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
@@ -404,7 +409,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:80
 trojan://d66e65fd90c2be0f94fa27adc0e5e088@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com:443?sni=b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com#%40happ_tmn
-trojan://6fac6920d85a061cc5bb88ea80e6a703@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@112.120.123.140:443?sni=fa86aac8-tmeqo0-0-1imi4.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37186?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=vk.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -414,9 +418,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world#%40happ_tmn
 vless://e6267f86-00c0-4516-ac6d-858d015e214c@199.232.78.159:80?type=ws&host=rb24.ir#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.26.0.1:2052?type=ws&host=eu02.123450908.xyz#%40happ_tmn
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&host=138.124.70.41#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 trojan://e1cb7ebf88a4b935a9ccc5378660ecc2@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&host=138.124.70.41#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33195?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206ZDhfMDIxblhQOENaREg2a3VndkpzbVU0YXdUc2pNTGI@82.148.251.199:191?#%F0%9F%87%AC%F0%9F%87%A7%20%40happ_tmn
 hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@0499fc3f-tmkao0-tnnrly-g43g.nw4.hyhuawei.com:443#%40happ_tmn
@@ -430,6 +433,7 @@ hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@112.120.123.140:443?sni=3d0bb86
 ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA@213.183.63.60:9028?#%F0%9F%87%A7%F0%9F%87%AC%20%40happ_tmn
 trojan://a157d762252558b15b32075645145251@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@e81f77b9-tmm5c0-tpda83-1lkbs.hk3.hyhuawei.com:443#%40happ_tmn
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5059?type=tcp#%40happ_tmn
 hysteria2://aed1cc24-351d-11ef-ba52-f23c9164ca5d@64.32.13.230:443?sni=429a8a17-tly2o0-0-1rfon.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=127.0.0.1#%40happ_tmn
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&sni=13.140.56.100#%F0%9F%87%AE%F0%9F%87%B3%20%40happ_tmn
@@ -437,9 +441,9 @@ hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37181?sni=vpn.lo
 trojan://ecb1c69fa0997abfe3965a2f343d4d52@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 hysteria2://526a1128-7487-11ee-9bca-f23c913c8d2b@c7cf6abc-tmm5c0-tpw4i4-1pckg.los.hyhuawei.com:443?sni=c7cf6abc-tmm5c0-tpw4i4-1pckg.los.hyhuawei.com#%40happ_tmn
 hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@112.120.123.140:443?sni=0499fc3f-tmkao0-tnnrly-g43g.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
-vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@188.114.97.6:80?type=ws&path=/ws?ed&host=vmess.lbw666.dpdns.org#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16305?type=tcp#%40happ_tmn
 ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ@82.38.31.46:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+trojan://c72fb0394432d4ae5e5b2de915f646c8@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.227.31.245:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@112.120.123.140:443?sni=f3ca53e4-tmm5c0-txkkcl-1fli7.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -464,8 +468,8 @@ hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@9a07c316-tmkao0-u1vxv2-v3c2.nw4
 hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@a4c15874-tmm5c0-tvvhcz-tl32.nw4.hyhuawei.com:443?sni=a4c15874-tmm5c0-tvvhcz-tl32.nw4.hyhuawei.com#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16280?type=tcp#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3QxeWpDcUFnMlpKR1FQUzltbURzNjh6THV2bmJnTA@45.86.158.154:8044?#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?sni=bl1.nexfile.net#%F0%9F%87%A7%F0%9F%87%BE%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002?#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?sni=bl1.nexfile.net#%F0%9F%87%A7%F0%9F%87%BE%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:5001?#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 trojan://ce9e02e876e32eca66d901eb4d07461c@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@170.114.45.6:80?type=ws&host=u.srilankangrill.online#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -480,7 +484,6 @@ trojan://0f3a49a77c569bc5cb7e272777ff4b4d@ja262.magiclampcloud.cn:59443?allowIns
 hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhuawei.com:443?sni=ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@4dfe79ca-tmm5c0-tpftcp-13x18.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=127.0.0.1#%40happ_tmn
-trojan://13e6b9f9497485cdedfdc59328e6a8ad@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://98794797-7c39-4357-a9b2-f88bea08c18e@lva1.pandaonline.org:443?sni=lva1.pandaonline.org#%40happ_tmn
 hysteria2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@112.120.123.140:443?sni=c58136f7-tmm5c0-trnd2c-jjv2.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -493,6 +496,8 @@ hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@64.32.13.230:443?sni=5333a31b-t
 ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@201.8.87.11:1080?#%F0%9F%87%B8%F0%9F%87%AA%20%40happ_tmn
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&path=/api/v1/?ed&mode=auto#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4444?sni=bl1.nexfile.net#%F0%9F%87%A7%F0%9F%87%BE%20%40happ_tmn
+hysteria2://ce29a04d-c95a-4451-9518-bae0c074e0d7@193.23.216.179:443?sni=crt.onecloudstream.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+trojan://a967a0bdb0a9aee1d9581130a2dcd19a@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?type=ws&host=ov-germany1.09vpn.comfreenettirgermanylimburg#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com:443?sni=88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?sni=google.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -535,6 +540,7 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307?#%F0%9F%87%BA%F0%9
 hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws#%F0%9F%87%AE%F0%9F%87%B3%20%40happ_tmn
 hysteria2://5dc6fa05-a601-aba6-7761-ecde22d2b0fc@33632b49-tmm5c0-tonrmx-8n27.nw4.hyhuawei.com:443?sni=33632b49-tmm5c0-tonrmx-8n27.nw4.hyhuawei.com#%40happ_tmn
+trojan://6fac6920d85a061cc5bb88ea80e6a703@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp&packetEncoding=none#%F0%9F%87%BB%F0%9F%87%B3%20%40happ_tmn
 trojan://4c1511d220e1437b234fa40571c43810@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
@@ -548,7 +554,6 @@ ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039?#%F0%9F%87%AE%F
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=https://t.me/clashv8\u0001f1e8\u0001f1f3&allow_insecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.20.147:8080?#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm3.rmastore.ir:2053?type=ws&encryption=mlkem768x25519plus.native.0rtt.0zrihtnngtlle7tm3amwb5bjbza8t3dqg8tmfejgfla#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-hkv2.kunlun01dns.com:16113?type=tcp#%40happ_tmn
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444?sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
@@ -575,6 +580,7 @@ hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@64.32.13.230:443?sni=6f9a8496-t
 hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@64.32.13.230:443?sni=8b327214-tm3mo0-tlvsde-1rnrp.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=t.me#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 vless://838e8b68-b583-4850-9c06-3ca63b05a936@2.31.22.130:8080?type=tcp&encryption=mlkem768x25519plus.native.0rtt.wlkin79_aoaaqko0zdfsaaxlsgeya8tfpwrnsoc6rhw#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-jp.kunlun01dns.com:21014?type=raw#%40happ_tmn
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080?#%F0%9F%87%AC%F0%9F%87%A7%20%40happ_tmn
 hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@02b717f0-tmm5c0-twj07b-fm2v.sg7.hyhuawei.com:443?sni=02b717f0-tmm5c0-twj07b-fm2v.sg7.hyhuawei.com#%40happ_tmn
 ss://YWVzLTEyOC1nY206OTdiNDI1ZDYxZWUwZGJlNTg0NDllMzYxNGRhZTNlODk@64.20.53.126:17911?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -592,6 +598,7 @@ hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21054?sni=vpn.
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=150-230-252-217.liao.kdns.fr#%40happ_tmn
 trojan://3520ebcc604f430b1abb25129b92ad03@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-jp.kunlun01dns.com:21017?type=tcp#%40happ_tmn
 hysteria2://526a1128-7487-11ee-9bca-f23c913c8d2b@c7cf6abc-tmm5c0-tpw4i4-1pckg.los.hyhuawei.com:443#%40happ_tmn
 hysteria2://c1785de0-212f-11ef-92aa-f23c9164ca5d@71db9f3f-tmm5c0-tyn7s3-1q3dm.nw4.hyhuawei.com:443?sni=71db9f3f-tmm5c0-tyn7s3-1q3dm.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@112.120.123.140:443?sni=51cc2d6e-tmm5c0-tw661e-1isea.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -603,9 +610,10 @@ vmess://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?type=ws&path=/
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6anQyZWtCTmM5SHVWdG0yYQ==@217.30.10.44:9052?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@35172c9b-tmm5c0-u10a65-1os43.los.hyhuawei.com:443?sni=35172c9b-tmm5c0-u10a65-1os43.los.hyhuawei.com#%40happ_tmn
-trojan://21fe8584f34486531ca5c3583775f80f@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
+ss://YWVzLTI1Ni1nY206SlBqeVE1VzFqa0I0MWwybG85cXRPRi9YYnZhZWVvR1pneEtqT3FiTHIzUT0=@83.141.75.95:53538?#%F0%9F%87%AE%F0%9F%87%AA%20%40happ_tmn
 hysteria2://1d4937b0-9104-42ac-b4a2-ab01f678fd04@auth.hahaahhaah.com:443?sni=auth.hahaahhaah.com#%40happ_tmn
 hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@112.120.123.140:443?sni=6d889de6-tly2o0-tn28ki-mv7m.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@188.114.97.6:80?type=ws&path=/ws?ed&host=vmess.lbw666.dpdns.org#%40happ_tmn
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=vk.com&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://861726bb-c61a-b0e0-99fa-5ddfdcf21902@75a08777-tmm5c0-ttxkqc-e06r.nw4.hyhuawei.com:443?sni=75a08777-tmm5c0-ttxkqc-e06r.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@b349b298-tmm5c0-tpda83-1lkbs.nw4.hyhuawei.com:443?sni=b349b298-tmm5c0-tpda83-1lkbs.nw4.hyhuawei.com#%40happ_tmn
@@ -655,6 +663,7 @@ vmess://aedc66b8-99d7-4a21-8310-61870e7f870d@47.250.135.244:10000?type=raw#%F0%9
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?type=ws&sni=sc-thenetherlands2.09vpn.com&host=sc-thenetherlands2.09vpn.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 trojan://43deb843e3f5da502d0b394995fc42d2@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 ss://YWVzLTEyOC1nY206YmRmYzliYWY3MzU3NmU4NmY1ZGM0NGE4NDA4NjBjNmY@156.244.3.14:18167?#%F0%9F%87%B6%F0%9F%87%A6%20%40happ_tmn
+trojan://22905eeb40abd86cf8314faceeefb35d@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 hysteria2://ae5338ae-9a70-58c9-3d47-7d54a5675715@64.32.13.230:443?sni=f98f32f1-tmm5c0-tv7dx2-py5w.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 trojan://881ff9e8588eaf4a7dd8352005921fa5@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
@@ -671,6 +680,7 @@ hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=www.bing.com
 trojan://14bac0e43c849123ccb0fd0690f24316@tyy129.magiclampcloud.com:59443?type=tcp#%40happ_tmn
 hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhuawei.com:443#%40happ_tmn
 tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443#%40happ_tmn
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.17.147.222:80?encryption=none&type=ws&path=/ws?ed=2048&host=vmess.lbw666.dpdns.org#%40happ_tmn
 hysteria2://maintell@152.70.237.123:2053?sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520#%40happ_tmn
 vmess://9db4c708-aef8-4359-821b-38e47990be0d@152.67.8.205:80?type=ws#%F0%9F%87%AE%F0%9F%87%B3%20%40happ_tmn
@@ -682,6 +692,7 @@ trojan://2ddeb5f43bbb897b13db728b2dfbef92@ja304.magiclampcloud.cn:59443?type=tcp
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclickvpnkeys#%40happ_tmn
 tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?congestion_control=bbr&sub_tag=M002-260618&udp=true&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&alpn=h3&udp_relay_mode=native#%40happ_tmn
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%40happ_tmn
+trojan://3083d270c621275837d5f509c0337c22@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbmJ0RXMwd0VsTm4wcG1BdXM3SkdPdFRRUFoyazg0eg@5.57.38.179:5005?#%F0%9F%87%AE%F0%9F%87%B7%20%40happ_tmn
@@ -705,10 +716,10 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080?#%F0%9F%87%BA%F
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001?#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://f609abb4-ed17-11ee-9fa2-f23c9164ca5d@59c70bb8-tmm5c0-txfm0f-1qxa1.nw4.hyhuawei.com:443#%40happ_tmn
 ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.178:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=www.broadcom.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 hysteria2://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@112.120.123.140:443?sni=9fc34650-tmm5c0-tmj4pk-1kcpe.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://19dd9c70-e4a5-11ed-8347-f23c9164ca5d@64.32.13.230:443?sni=a436bbe7-tmm5c0-tug19l-1go3q.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com:443#%40happ_tmn
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21000?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&mport=21000-21199,33000-33199#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
@@ -717,6 +728,7 @@ hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@971746e8-tmm5c0-trpvht-1ey07.nw
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40happ_tmn
 vmess://5155860e-d07d-46c3-9128-3afbd84626c7@132.145.80.230:80?type=ws&path=/cctv13.m3u8&host=kr02.a0a.xyz#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21021?type=tcp#%40happ_tmn
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000?#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw==@213.183.63.60:9066?#%F0%9F%87%A7%F0%9F%87%AC%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ==@213.183.63.60:9049?#%F0%9F%87%A7%F0%9F%87%AC%20%40happ_tmn
@@ -806,9 +818,9 @@ hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@112.120.123.140:443?sni=89ff7d0
 trojan://d86931c3cdedaae00c34a0ef62f744c6@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 trojan://057c3dd2a74c74d1c71d63c098924d3d@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 vless://fe1cfc86-a077-403f-afc7-b97cee3f15e1@static.84.151.104.178.clients.your-server.de:41432?type=tcp&host=play-apps-features.googleusercontent.com#%40happ_tmn
-hysteria2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@61b2ab79-tmm5c0-u1q5od-t6fv.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://bdf3e15e-c64c-11ea-82ef-f23c9164ca5d@112.120.123.140:443?sni=ae410052-tmm5c0-tsdg75-tlhh.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@112.120.123.140:443?sni=fc0786a4-tmm5c0-tw2fdz-1s824.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@61b2ab79-tmm5c0-u1q5od-t6fv.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@9969bb96-tmm5c0-twuk0i-1hzyr.hk3.hyhuawei.com:443?sni=9969bb96-tmm5c0-twuk0i-1hzyr.hk3.hyhuawei.com#%40happ_tmn
 hysteria2://e5573253-44fc-4502-ba06-96e4742bb448@217.12.207.38:443?sni=cinema.kinopolka.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=off#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
@@ -827,11 +839,9 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:8888?#%F0%9F%87%B0%F0%9
 trojan://c300410095914c66daa846d8a5c92747@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8446?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 trojan://2bec9594deabbce4b0030700e6e916f0@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
-vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.17.147.222:80?type=ws&path=/ws&host=vmess.lbw666.dpdns.org#%40happ_tmn
 hysteria2://8bb68d04-6973-11ee-b518-f23c9164ca5d@64.32.13.230:443?sni=73395328-tmm5c0-tpv2b9-1o8ak.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://5155860e-d07d-46c3-9128-3afbd84626c7@132.145.80.230:80?type=ws&path=/cctv13.m3u8&host=null#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-ss://YWVzLTEyOC1nY206MzdhN2M1ZmI2YTMxMDkyMDdhMDg2MGQzMGJlZGIzN2M=@38.180.11.182:12146?#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 vmess://9b76bc31-17a5-4454-934a-8d5fb602cd70@119.46.51.45:37515?type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20%40happ_tmn
 hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@04f02e2a-tmm5c0-tzzpok-1sllg.sg7.hyhuawei.com:443?sni=04f02e2a-tmm5c0-tzzpok-1sllg.sg7.hyhuawei.com#%40happ_tmn
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=155.248.209.2#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -889,7 +899,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQ2FtZ2x6ck9SYW9wcWJwQmxwdHpidDlRZGlINENTTg@
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=t.me#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388?#%F0%9F%87%A8%F0%9F%87%B1%20%40happ_tmn
-trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://40e084d6-0316-11f0-90e2-f23c913c8d2b@78bc7982-tmm5c0-u0aht1-1rz5s.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://61c4be90-6235-11ec-a8bf-f23c91cfbbc9@d158cca3-tmm5c0-tr9h64-1f1f1.hk3.hyhuawei.com:443#%40happ_tmn
@@ -908,6 +917,7 @@ vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?type=tcp#%F0%9F%
 hysteria2://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@2219f493-tmm5c0-tpftcp-13x18.nw4.hyhuawei.com:443?sni=2219f493-tmm5c0-tpftcp-13x18.nw4.hyhuawei.com#%40happ_tmn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443?#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
+vless://73796e63-0000-4000-8000-000000000008@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2095?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%40happ_tmn
 trojan://74577e02978f5758d19f276a502b24b5@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=t.me#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 trojan://b4d7471e8bf6508a55dae8b38ba1a625@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
@@ -920,7 +930,6 @@ trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&sni=kr002.zestapp7
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=127.0.0.1#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444#%40happ_tmn
 hysteria2://3437f34e-1b77-11eb-8684-f23c913c8d2b@25188aad-tm3mo0-unh4sc-xm0q.los.hyhuawei.com:443?sni=25188aad-tm3mo0-unh4sc-xm0q.los.hyhuawei.com#%40happ_tmn
-vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-jp.kunlun01dns.com:21017?type=tcp&host=dog-jp.kunlun01dns.com#%40happ_tmn
 trojan://77c2c63b9b3081a8deab212050ba5472@tyy129.magiclampcloud.com:59443?type=tcp#%40happ_tmn
 trojan://396b684da7e944a8f439669e24e8afed@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152.67.200.82#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
@@ -993,16 +1002,15 @@ hysteria2://ae5338ae-9a70-58c9-3d47-7d54a5675715@bd452e87-tmm5c0-tv7dx2-py5w.hk3
 hysteria2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@64.32.13.230:443?sni=be688289-tmm5c0-u1q5od-t6fv.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#%40happ_tmn
 hysteria2://526a1128-7487-11ee-9bca-f23c913c8d2b@aecfea9b-tmm5c0-tpw4i4-1pckg.nw4.hyhuawei.com:443?sni=aecfea9b-tmm5c0-tpw4i4-1pckg.nw4.hyhuawei.com#%40happ_tmn
-trojan://948b69750854dbc28a9ec20d947e36c6@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 hysteria2://e5573253-44fc-4502-ba06-96e4742bb448@185.255.115.74:443?sni=www.paperandpaths.eu#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
-trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=0&type=tcp&sni=mx001.zestapp778.com#%40happ_tmn
-trojan://c72fb0394432d4ae5e5b2de915f646c8@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
+trojan://948b69750854dbc28a9ec20d947e36c6@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37066?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=www.bing.com#%40happ_tmn
 hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@0b28dbb8-tmm5c0-tn3jhp-1qthu.los.hyhuawei.com:443#%40happ_tmn
 trojan://7e62aec6f4a54b44cd439321c825d71b@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-001.fastervpn.world:443?sni=vpn-us-001.fastervpn.world#%40happ_tmn
+tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@58.152.81.104:443?sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&alpn=h3#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?type=ws&host=3h-unitedstates1.09vpn.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://fccbad0f-eb6c-4bdd-80ed-145409e2f761@39.108.113.127:10086?type=ws#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?type=ws&host=ov-germany1.09vpn.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
@@ -1014,6 +1022,7 @@ vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21020?type=r
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.105:8388?#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24111?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-us.kunlun01dns.com:21010?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+vless://d86bb8e6-ba84-96a9-1346-5af07bb85e79@104.167.198.141:9010?type=ws&encryption=mlkem768x25519plus.native.0rtt.cqruho0p5mmp3i6q9li2sgom9lgkxmd_tzl6xdtrvq4#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com#%40happ_tmn
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=127.0.0.1#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?sni=off#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -1028,14 +1037,15 @@ ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:4
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 tuic://f02ee2b4-d760-11ec-bd7c-f23c913c8d2b:f02ee2b4-d760-11ec-bd7c-f23c913c8d2b@58.152.81.104:443?sni=46b61821-tki800-tlwmty-1gevg.pccw3.hyhuawei.com&alpn=h3&congestion_control=bbr#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://e5573253-44fc-4502-ba06-96e4742bb448@193.233.202.69:443?sni=video.kinopolka.net#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.17.147.222:80?type=ws&path=/ws?ed=2048&host=vmess.lbw666.dpdns.org#%40happ_tmn
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=138.3.208.26#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 trojan://ffaac02033b3fd3458f2aec9386da59b@tyy129.magiclampcloud.com:59443?type=tcp#%40happ_tmn
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?type=ws&sni=ov-france1.09vpn.com&host=ov-france1.09vpn.com#%40happ_tmn
 vless://6bffe2e2-86f1-4778-b09d-299db8fe4c3e@sub.vicdn.dev:8080?type=ws&host=sub.vicdn.dev#%40happ_tmn
+hysteria2://kztyblVC7ZlEKR3ZO5HW@142.11.207.17:443?sni=www.bing.com&down=200&up=50#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://8bb68d04-6973-11ee-b518-f23c9164ca5d@558afe74-tmeqo0-tpv2b9-1o8ak.nw4.hyhuawei.com:443?sni=558afe74-tmeqo0-tpv2b9-1o8ak.nw4.hyhuawei.com#%40happ_tmn
 trojan://48d435ae12ff0704baa7de0780d5dab5@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@172.236.139.236:443?sni=04f02e2a-tmm5c0-tzzpok-1sllg.sg7.hyhuawei.com#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
+trojan://21fe8584f34486531ca5c3583775f80f@tyy129.magiclampcloud.com:59443?type=tcp#%40happ_tmn
 trojan://254a0b7402009010a3740e084dff6b56@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16258?type=raw#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.222.60.168:443?#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
@@ -1083,13 +1093,11 @@ hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=off#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QVVWUFpmT2VTSG1WQ015THZJdnJsMXdWTHZaZjdKdg@207.246.112.227:1080?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@c58136f7-tmm5c0-trnd2c-jjv2.nw4.hyhuawei.com:443?sni=c58136f7-tmm5c0-trnd2c-jjv2.nw4.hyhuawei.com#%40happ_tmn
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118?#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
-trojan://3083d270c621275837d5f509c0337c22@ja304.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQW01X0wxNkJaWGg1NS1LdWdudnI5d2pjNkMxaDZnSg@95.182.98.143:1080?#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 trojan://2ce88088024f525d77c2bda96e81d737@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 hysteria2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@64.32.13.230:443?sni=f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@64.32.13.230:443?sni=db09351f-tlsio0-0-mv7m.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://f81d0fc9-c6b0-4dab-a270-6e697e0a367f@120.48.133.162:10086?type=ws&path=/#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
-trojan://22905eeb40abd86cf8314faceeefb35d@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 hysteria2://ae5338ae-9a70-58c9-3d47-7d54a5675715@ea47f944-tmm5c0-tv7dx2-py5w.nw4.hyhuawei.com:443#%40happ_tmn
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://8560843d8550aa368674c3bf0d4d3ad8@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
@@ -1104,9 +1112,11 @@ hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@95691df5-tmm5c0-trpvht-1ey07.hk
 hysteria2://92bf29cc-ee08-4c97-bf0b-b4dff41e5bd8@179.255.103.55:443?sni=n02.jinggai.online#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com:443?alpn=h3&congestion_control=bbr&sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com#%40happ_tmn
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.21.7.133:80?type=ws&path=/ws&host=vmess.lbw666.dpdns.org#%40happ_tmn
 hysteria2://28213b50-7ed5-11ee-add6-f23c91369f2d@f7f4da49-tmm5c0-tqgocx-1plv4.hk3.hyhuawei.com:443#%40happ_tmn
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999?#%F0%9F%87%AE%F0%9F%87%B9%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?sni=3.69.232.199#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+vmess://41a7089a-040b-4538-8b8d-010902405bde@140.238.2.250:443?type=none#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119?#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
 trojan://e6afedbba859fd975268a93ef46359ae@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?path=/api/v1/?ed&mode=auto#%40happ_tmn
@@ -1122,6 +1132,7 @@ trojan://5cbfc58f2ca9478a08c96ad942513920@ja262.magiclampcloud.cn:59443?allowIns
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6TjdqM3BkVFlrS21zeThDUg==@217.30.10.44:9095?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150.230.252.217:50160?sni=150-230-252-217.liao.kdns.fr&allow_insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21020?type=tcp#%40happ_tmn
 hysteria://5.83.129.143:26691?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24146?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@112.120.123.140:443?sni=8175bce5-tmm5c0-tzzpok-1sllg.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
@@ -1129,6 +1140,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443?#%40happ_tmn
 trojan://a6667237f0272b408e55cec8c3ebde8e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?sni=31.57.248.176#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://2c01eae6-0b6a-11ee-a058-f23c91369f2d@e3e217d6-tmm5c0-tzkd63-1jr1u.los.hyhuawei.com:443?sni=e3e217d6-tmm5c0-tzkd63-1jr1u.los.hyhuawei.com#%40happ_tmn
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp#%40happ_tmn
 ss://YWVzLTI1Ni1nY206YzVQdExoeWxZNXIzakpRNlhsekdpT2RYZVlZbGh1LWs@pg2.rmastore.ir:3040?#%40happ_tmn
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?insecure=1#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21018?type=tcp#%40happ_tmn
@@ -1140,6 +1152,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.58.183:443?#%F0%9F%87%A9%F0%9F%87%A
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1#%40happ_tmn
 hysteria2://1d4937b0-9104-42ac-b4a2-ab01f678fd04@eu.hahaahhaah.com:443?sni=eu.hahaahhaah.com#%40happ_tmn
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-us.kunlun01dns.com:21011?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+ss://YWVzLTEyOC1nY206MzdhN2M1ZmI2YTMxMDkyMDdhMDg2MGQzMGJlZGIzN2M@38.180.11.182:12146?#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001?#%F0%9F%87%B1%F0%9F%87%B9%20%40happ_tmn
 hysteria2://mhsl@88.99.213.222:14444?sni=88.99.213.222#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@c39e9624-tmm5c0-twnp5a-ahsb.nw4.hyhuawei.com:443#%40happ_tmn
@@ -1179,19 +1192,20 @@ hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?sni=vpn-fr-001.fastervpn.world#%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37132?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24048?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoNGprT1JJcGdiOWRJVzB0QnRCQnpfM083TjhSRll4LQ@84.22.150.230:1080?#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 vmess://bca8c159-df05-4bb6-9b75-92aabc2be45f@n5.mobiza.ir:2095?type=ws&path=/&host=dash.mobiza.ir#%40happ_tmn
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443?#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@201.10.91.31:1080?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=155.248.209.237#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@95691df5-tmm5c0-trpvht-1ey07.hk3.hyhuawei.com:443#%40happ_tmn
+vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?type=tcp#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064?#%F0%9F%87%A7%F0%9F%87%AC%20%40happ_tmn
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080?#%F0%9F%87%AC%F0%9F%87%A7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?sni=3.76.203.180#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388?#%F0%9F%87%A6%F0%9F%87%B9%20%40happ_tmn
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 tuic://f02ee2b4-d760-11ec-bd7c-f23c913c8d2b:f02ee2b4-d760-11ec-bd7c-f23c913c8d2b@46b61821-tki800-tlwmty-1gevg.pccw3.hyhuawei.com:443?sni=46b61821-tki800-tlwmty-1gevg.pccw3.hyhuawei.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#%40happ_tmn
-vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21021?type=tcp&host=dog-hk.kunlun01dns.com#%40happ_tmn
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@195.238.126.20:9011?#%F0%9F%87%B1%F0%9F%87%B9%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?sni=vpn-hk-004.fastervpn.world#%40happ_tmn
@@ -1206,8 +1220,10 @@ vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?type=ws&host=163
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16256?type=tcp#%40happ_tmn
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=1#%40happ_tmn
 ss://YWVzLTEyOC1nY206MmYwYzdlMzctMjUzNC00OGRjLTk2MTUtZDg1YWU4MDBjNDFm@mm.good2026.com:12961?#%40happ_tmn
+vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@16.52.145.120:80?type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
 hysteria2://e5573253-44fc-4502-ba06-96e4742bb448@45.136.228.93:443?sni=suboard.net#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 hysteria2://19dd9c70-e4a5-11ed-8347-f23c9164ca5d@a436bbe7-tmm5c0-tug19l-1go3q.los.hyhuawei.com:443?sni=a436bbe7-tmm5c0-tug19l-1go3q.los.hyhuawei.com#%40happ_tmn
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@eu02.123450908.xyz:2052?type=ws&host=eu02.123450908.xyz#%40happ_tmn
 hysteria2://ae5338ae-9a70-58c9-3d47-7d54a5675715@112.120.123.140:443?sni=ea47f944-tmm5c0-tv7dx2-py5w.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-jpv2.kunlun01dns.com:16122?type=raw#%40happ_tmn
 hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@02b717f0-tmm5c0-twj07b-fm2v.sg7.hyhuawei.com:443#%40happ_tmn
@@ -1242,7 +1258,6 @@ trojan://53b0c468a3ef95de5ec22f517072bdcd@ja304.magiclampcloud.cn:59443?type=tcp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://367e233c-2f54-11ee-9ae1-f23c9164ca5d@112.120.123.140:443?sni=3226c07a-tmm5c0-u093mf-1mina.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
-trojan://a967a0bdb0a9aee1d9581130a2dcd19a@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 vmess://5155860e-d07d-46c3-9128-3afbd84626c7@132.145.80.230:80?type=ws&path=/cctv13.m3u8#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://8f99107c-f091-11ee-9935-f23c9164ca5d@112.120.123.140:443?sni=f7afb605-tmm5c0-tvh2gy-1qzi1.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 trojan://3cd6031c7173d0584ebbaae1a17d4b60@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
@@ -1273,7 +1288,6 @@ ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086?#%F0%9F%87%B1%
 trojan://06cf12a7fab279375e55e2f0cfdef381@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6YjhLa05EakVkNVFxRnlSbQ@195.238.126.20:9002?#%F0%9F%87%B1%F0%9F%87%B9%20%40happ_tmn
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40happ_tmn
-vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@172.67.187.145:80?encryption=none&type=ws&path=/ws?ed=2048&host=vmess.lbw666.dpdns.org#%40happ_tmn
 trojan://08340a533092e321470fbe21b3407694@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
 vmess://8e93b009-f1af-448a-b8ef-b110849a35f0@43.130.35.53:10087?type=raw#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://433eeaa26c6cfb611ac76aa154368ed1@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#%40happ_tmn
@@ -1291,6 +1305,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443?#%F0%9F%87%AF%F0%9F%87%B5
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?type=ws&host=ov-germany1.09vpn.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2ZIbjVDNUp6OG9aY3FEX1h1aHF5UFd0SXA2ZDE2RA@tun-ssl.rovfelo.ir:2026?#%40happ_tmn
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.54.250:8080?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.0sm.com:80?type=ws&path=/ws?ed=2048&host=vmess.lbw666.dpdns.org#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388?#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 trojan://c30973184a30818b4a19c8b247cc3cd4@ja262.magiclampcloud.cn:59443?type=tcp#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@213.183.63.60:9061?#%F0%9F%87%A7%F0%9F%87%AC%20%40happ_tmn
@@ -1303,6 +1318,7 @@ hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=off&allow_in
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#%F0%9F%87%B8%F0%9F%87%AA%20%40happ_tmn
 vmess://4fc543d5-23ce-4556-ae2b-01685edd4397@39.108.113.127:10086?type=ws#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@ca9daafc-tmm5c0-u5ip77-duku.nw4.hyhuawei.com:443#%40happ_tmn
+vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm3.rmastore.ir:2053?type=ws&encryption=mlkem768x25519plus.native.0rtt.0zrihtnngtlle7tm3amwb5bjbza8t3dqg8tmfejgfla&host=rm3.rmastore.ir#%40happ_tmn
 trojan://dc8487a54e41ae2a680b14ab235a30a2@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#%40happ_tmn
 trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&allowInsecure=1#%40happ_tmn
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQGhhcHBfdG1uIiwiYWRkIjoiMTIwLjQ4LjEzMy4xNjIiLCJwb3J0IjoiMTAwODYiLCJpZCI6IjJhNDg5NTEzLTQ2YjUtNDg4Yy05ODk5LTlmYWFmMmQ4M2NkOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
