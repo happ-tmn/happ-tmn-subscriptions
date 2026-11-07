@@ -33,6 +33,7 @@ hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://1d4937b0-9104-42ac-b4a2-ab01f678fd04@stream.hahaahhaah.com:443?sni=stream.hahaahhaah.com#%F0%9F%87%A6%F0%9F%87%B2%20%40happ_tmn
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@9.247.54.188:443?sni=nl1.obxodvpn.us#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+hysteria://5.83.129.90:54177?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=1000&protocol=udp&peer=apple.com&upmbps=500#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.98.84:20443?sni=hy6b373d.w-mebel.pro#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=1#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://1r0d8slwbpg1iebe@129.153.77.162:8443?sni=www.apple.com&obfs=salamander&obfs-password=f7yrrbc9h6b1krnk#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -51,9 +52,11 @@ hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?sni=163.192.14
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=138.3.208.26#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?sni=152-69-231-175.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+hysteria2://96c3a413-f0d0-4bee-a718-2b4e1561193e@pq-hinet.tw1.yydjc.top:60000?sni=www.apple.com#%40happ_tmn
 hysteria2://1794082870:063fff3c-d6dd-43e3-b2fb-124785f13029:CTIsdSVtro0BDR9MTUEuiYpjN3F5BN169ytiJfmMR6c@212.41.8.76:36104?sni=gb2.lumacache.com#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 hysteria://5.83.129.143:26691?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hysteria://5.83.129.90:54177?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://1d4937b0-9104-42ac-b4a2-ab01f678fd04@eu.hahaahhaah.com:443?sni=eu.hahaahhaah.com#%40happ_tmn
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899.w-mebel.pro#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.254.13:20443?sni=hy51290d.w-mebel.pro#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
