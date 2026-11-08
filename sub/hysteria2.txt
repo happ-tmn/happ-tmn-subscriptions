@@ -47,6 +47,7 @@ hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.183.164:20444?sni=hy5129
 hysteria2://97f9afbb-e7db-48de-9542-70b1346f6221@83.138.55.148:40745?sni=nld2.sdm.kids&obfs=salamander&obfs-password=NGMwMDNiMGEyNWNmZDcwZg==#%F0%9F%87%A6%F0%9F%87%B9%20%40happ_tmn
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-001.fastervpn.world:443?sni=vpn-us-001.fastervpn.world#%40happ_tmn
+hysteria2://cJytMmPWpB4JAC-VlzE8rCMhcLznQiLb@31.56.189.198:27017?sni=static.cdnnow.xyz#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899-4.w-mebel.pro#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://96c3a413-f0d0-4bee-a718-2b4e1561193e@pq-hinet.tw1.yydjc.top:60000?sni=www.apple.com#%40happ_tmn
@@ -56,6 +57,7 @@ hysteria://5.83.129.90:54177?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmb
 hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999?sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?sni=vpn-hk-004.fastervpn.world#%40happ_tmn
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.102.158:20443?sni=hy62c5d8.w-mebel.pro#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?sni=109.70.74.213&obfs=salamander&obfs-password=7922smqtd5qm70fu&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://p5xt6oLOA3qikIaj@fi-p1.h1cloud.net:25482?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.76:20443?sni=hy530899.w-mebel.pro&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn

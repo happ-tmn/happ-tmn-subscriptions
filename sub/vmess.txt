@@ -33,6 +33,7 @@ vmess://4d4708ef-0729-44ac-b2b0-411ce0242e89@free2.rajaserver2.web.id:443?type=g
 vmess://224b4657-a076-4245-ad73-9b7e260fb2ec@us122202.ssgreen.org:443?type=ws&security=tls&path=/wes#%40happ_tmn
 vmess://6a89a215-22bf-4bd7-9642-b95b2e09583a@www.shopify.com:443?type=ws&security=true&path=/hls/cctv5phd.m3u8&host=guanwang.awsno.com#%40happ_tmn
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21019?type=tcp#%40happ_tmn
+vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16317?type=tcp#%40happ_tmn
 vmess://adfa46c1-5ac9-41cb-aeaa-265d8b4c8697@jp032007.ssgreen.org:443?type=ws&security=tls&path=/wes#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16266?type=tcp#%40happ_tmn
 vmess://a3e896c9-9c38-4e0d-a486-d405b2ab6ae1@v43.emnode.top:9690?type=ws&path=/&host=v43.emnode.top#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
@@ -62,7 +63,6 @@ vmess://355c1760-9bde-4b77-916b-5191e7f704a3@23.94.83.37:52080?type=http&path=/Q
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21021?type=raw#%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.21.91.53:8443?type=ws&security=tls&path=/lMnsZUN4/&sni=v2ray1.dozapp.xyz#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16322?type=tcp#%40happ_tmn
-vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16317?type=tcp&host=zfd-boardv2.kunlun01dns.com#%40happ_tmn
 vmess://f38e591d-d13a-4c30-9763-6be3ad65f3ec@de.zhou-yufan.com:443?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 vmess://279c2c58-2001-4f1a-8c12-fa9bd992f4ef@al11.aynd.me:49534?type=tcp#%40happ_tmn
 vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@172.64.229.21:443?type=ws&security=tls&path=/ws?ed=2048&host=vmess.lbw666.dpdns.org#%40happ_tmn
@@ -150,6 +150,7 @@ vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.21.57.84:8443?type=ws&security=
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16256?type=tcp#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16258?type=tcp#%40happ_tmn
 vmess://279c2c58-2001-4f1a-8c12-fa9bd992f4ef@al11.aynd.me:27487?type=tcp#%40happ_tmn
+vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-hkv2.kunlun01dns.com:16112?type=tcp#%40happ_tmn
 vmess://059fda3e-5ca9-4fbd-dd89-01cc6d4bb5dd@54.37.131.126:80?type=ws&path=/&host=google.whatsapp.snapp.torob.basalam.hesanid8.ir.#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 vmess://6a89a215-22bf-4bd7-9642-b95b2e09583a@172.67.190.164:443?type=ws&security=tls&path=/hls/cctv5phd.m3u8&host=guanwang.awsno.com#%40happ_tmn
 vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.877771.xyz:443?type=ws&security=tls&path=/ws&sni=vmess.lbw666.dpdns.org#%40happ_tmn

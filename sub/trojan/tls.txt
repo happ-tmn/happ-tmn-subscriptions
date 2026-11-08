@@ -10,6 +10,7 @@ trojan://EMZdJj1zR8B2xncv@oneuiryt-production.up.railway.app:443?type=ws&securit
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&fp=chrome&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#%F0%9F%87%B8%F0%9F%87%AA%20%40happ_tmn
 trojan://gHQP0D7D15@104.24.0.1:2053?type=ws&security=tls&fp=safari&sni=marvdasht.phonecomparisonblog.org#%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=resources.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
+trojan://B7uhruMgFAykL-yBmo0ary0v1U0BFF9o@m4.mincreaft.com:5443?type=tcp&security=tls&fp=firefox&sni=m4.mincreaft.com&alpn=http/1.1#%40happ_tmn
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?type=ws&security=tls&fp=chrome&sni=dimskiee.biz.id&host=dimskiee.biz.id#%40happ_tmn
 trojan://gHQP0D7D15@172.66.0.1:2053?type=ws&security=tls&fp=chrome&sni=marvdasht.phonecomparisonblog.org#%40happ_tmn
 trojan://gHQP0D7D15@104.25.239.113:2053?type=ws&security=tls&fp=chrome&sni=marvdasht.phonecomparisonblog.org#%40happ_tmn
