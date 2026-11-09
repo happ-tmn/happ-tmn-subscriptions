@@ -576,7 +576,9 @@ hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=off&allow_in
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@ca9daafc-tmm5c0-u5ip77-duku.nw4.hyhuawei.com:443#%40happ_tmn
 hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?sni=109.70.74.213&obfs=salamander&obfs-password=7922smqtd5qm70fu&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@112.120.123.140:443?sni=818667a4-tmm5c0-tpsg94-1jbj0.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
-hysteria2://1cce7df2-251c-11ee-9409-f23c9164ca5d@7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhuawei.com:443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hy2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=1&sni=127.0.0.1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?insecure=1&sni=152-69-231-175.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=8.209.247.109#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
+hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
