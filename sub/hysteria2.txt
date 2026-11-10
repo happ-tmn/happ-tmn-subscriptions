@@ -450,6 +450,5 @@ hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21147?sni=vpn.
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=off&allow_insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?sni=109.70.74.213&obfs=salamander&obfs-password=7922smqtd5qm70fu&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?insecure=1&sni=pl3.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
