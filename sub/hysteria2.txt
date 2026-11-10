@@ -62,6 +62,7 @@ hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443?sni=hy.cardli
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=t.me&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://fcd39788-ca23-11ed-86e2-f23c913c8d2b@64.32.13.230:443?sni=99a517d4-tmm5c0-u2e9xs-2b2n.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://STYyftThFn@freedom.chenlan.top:12765?sni=freedom.chenlan.top#%40happ_tmn
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?sni=shorts.blog-forme.ru&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?sni=bl1.nexfile.net&security=tls#%40happ_tmn
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444#%40happ_tmn
@@ -76,6 +77,7 @@ hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&password
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21047?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?sni=202.146.222.174#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?sni=vpn-de-002.fastervpn.world&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hysteria2://khkqsUbWZNAnqU0O@65.0.29.186:56001?sni=in-ls-b-1.orwnaubrzcrbhrdgpdtu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B3%20%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21175?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?sni=vpn-fr-001.fastervpn.world&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
@@ -107,6 +109,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=off#%40h
 hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@112.120.123.140:443?sni=9a07c316-tmkao0-u1vxv2-v3c2.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://miaoge110@5.45.100.100:51511?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
+hysteria2://c8c54160-129b-43d1-8700-91c31f0984c7@31.76.5.243:443?sni=kk-de4942.testkknegr.online&fp=firefox#%F0%9F%87%B3%F0%9F%87%B4%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?sni=pl3.nexfile.net&security=tls#%40happ_tmn
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@f7f87486-tmm5c0-ts3rye-mrtr.nw4.hyhuawei.com:443?sni=f7f87486-tmm5c0-ts3rye-mrtr.nw4.hyhuawei.com#%40happ_tmn
@@ -129,6 +132,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-0
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33195?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=t.me&security=tls#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=google.com#%40happ_tmn
+hysteria2://ahsSStdyBvUyQZHC@13.39.149.192:56001?sni=fr-ls-a-1.orwnaubrzcrbhrdgpdtu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://GnVqzYNYGYRXNUq8fBOxGsv9pNBdYvKP@204.152.221.177:443?sni=www.bing.com&obfs=salamander&obfs-password=0Jy/BjMrgPxwRG9bx+YIyZz2hqUfE7Cf#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@2193972c-tmkao0-u1vxv2-v3c2.hk3.hyhuawei.com:443?sni=2193972c-tmkao0-u1vxv2-v3c2.hk3.hyhuawei.com#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=127.0.0.1#%40happ_tmn
@@ -167,6 +171,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=https://t.me/clashv8
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21086?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%40happ_tmn
 hysteria2://qtMKhrFAMrVZUfupkc5CFHmRKYtNPSjt@165.154.193.165:443?insecure=1&obfs=salamander&obfs-password=d7897b996af77eeecb7ac010361d74fb#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20%40happ_tmn
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:33128?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.194.242.173:443?sni=127.0.0.1&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?sni=steel7.hadsvpn.com&security=tls#%40happ_tmn
@@ -190,6 +195,7 @@ hysteria2://f7d95364-607b-11ee-93af-f23c91369f2d@112.120.123.140:443?sni=3b4c630
 hysteria2://a4c9b7cc-a816-11ed-9f65-f23c9164ca5d@bd8d18d7-tmm5c0-tny186-4lg6.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443#%40happ_tmn
 hysteria2://f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b@3ccb74ed-tmm5c0-ttyjoe-ieln.nw4.hyhuawei.com:443#%40happ_tmn
+hysteria2://Y4qxR7Qj9mzMAuHt@13.135.93.199:16001?sni=uk-ls-1.nebulacloud.win&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20%40happ_tmn
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?sni=fi1.obxodvpn.us&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=66.94.121.46#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1#%40happ_tmn
@@ -243,6 +249,7 @@ hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=vk.com#%F0%
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?sni=www.bing.com&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@64.32.13.230:443?sni=3afac95e-tmm5c0-u3xqxa-1q91p.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.231.3:443?sni=guide.blog-forme.ru&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=off#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33141?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/wangcai2#%40happ_tmn
@@ -255,6 +262,7 @@ hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@6d889de6-tly2o0-tn28ki-mv7m.nw4
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=speedtest.tinkoff.ru#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=css.rbxcdn.com#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://a81a7b45-dd70-42ef-822f-ef467f944382@153.56.210.134:38045?sni=www.bing.com&obfs=salamander&obfs-password=642516f2-f9bd-41ce-9904-dee699c39cf9#%F0%9F%87%B9%F0%9F%87%B7%20%40happ_tmn
+hysteria2://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.us6.globals-download.com:35000?sni=www.apple.com#%40happ_tmn
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 hysteria2://63e1b9462d708b56d5d5a0267cffecdc@promo3.goonars.com:443#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
@@ -269,12 +277,14 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=t.me#%F0%9F%87%A8%F0
 hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https#%40happ_tmn
+hysteria2://UvzId43qrergTEKb@38.60.255.241:56001?sni=tk4.czzhkractqqakfzdmrgd.cc&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=t.me#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33174?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?sni=hysteria.udpgw.com&obfs=salamander&obfs-password=HysteriaHowdy#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=127.0.0.1#%40happ_tmn
 hysteria2://f5c0eda2-4b97-11ed-bd7c-f23c913c8d2b@5af305e9-tmm5c0-ttyjoe-ieln.hk3.hyhuawei.com:443#%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152.67.200.82#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20%40happ_tmn
 hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@112.120.123.140:443?sni=11158b9a-tmm5c0-u3xqxa-1q91p.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443#%40happ_tmn
@@ -302,6 +312,7 @@ hysteria2://f7d95364-607b-11ee-93af-f23c91369f2d@e49952e3-tmm5c0-tv7zgh-1ijh5.hk
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=138.3.208.26#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.194.242.173:443?sni=vpn-de-002.fastervpn.world&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hysteria2://Zh2lxg9uqal86u0i@38.60.202.43:56001?sni=ae-1-d.nebulacloud.win&security=tls#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@203.218.217.94:443?sni=fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21154?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
@@ -327,6 +338,7 @@ hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24146?sni=vpn.lo
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?insecure=1#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 hysteria://5.83.129.90:54177?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1#%40happ_tmn
+hysteria2://Y4L5LDmjfUZYuucO@38.54.45.100:56001?sni=ar2.nebulacloud.win&security=tls#%F0%9F%87%A6%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?sni=vpn-de-002.fastervpn.world&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=speedtest.tinkoff.ru#%40happ_tmn
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824#%40happ_tmn
@@ -363,15 +375,18 @@ hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.ne
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21161?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?sni=18.153.65.67#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hysteria2://DpRH7wE9ENErXxnN@18.162.191.163:56001?sni=hk-ls-g-8.lihmxssuqleitqcxpssa.uk&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com/Alvin9999-newpac/fanqiang&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37075?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://88f6e3c4-1d01-11ef-812c-f23c91cfbbc9@112.120.123.140:443?sni=62a43558-tmm5c0-trdynx-1rk9y.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@112.120.123.140:443?sni=fa86aac8-tmeqo0-0-1imi4.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20%40happ_tmn
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=vk.com&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@8a24f231-tmm5c0-tujecz-1qkeg.nw4.hyhuawei.com:443#%40happ_tmn
 hysteria2://STYyftThFn@freedom.chenlan.top:12765#%40happ_tmn
 hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com:443#%40happ_tmn
+hysteria2://ebfb3f7c-6d5f-42fb-9be2-4fb7a3537c25@pq.us3.globals-download.com:35000?sni=tv.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21147?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#%F0%9F%87%B8%F0%9F%87%AA%20%40happ_tmn
@@ -380,5 +395,5 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?sni=pl3.ne
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@45.88.12.188:443?sni=va.stream-room.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&alpn=h3&sni=127.0.0.1#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?sni=vpn-de-002.fastervpn.world&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
