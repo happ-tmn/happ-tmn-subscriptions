@@ -145,6 +145,7 @@ hysteria2://ff0343ad-1c9f-4986-8c62-c01935b508ca@153.56.210.134:57251?sni=www.bi
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?sni=pl2.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=www.bing.com&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria2://abedf59203ff9523@138.2.37.59:17826?sni=www.bing.com&obfs=salamander&obfs-password=ce8a8b39835f0ce5340cf548892e8e71#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1#%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21090?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclickvpnkeys#%40happ_tmn
