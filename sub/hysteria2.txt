@@ -53,6 +53,7 @@ hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?sni=www.bing.com&o
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=whatsapp.com&security=tls#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://bc60e93b-1c62-45fc-9c1d-c26285b29e7e@217.60.33.146:1443?sni=infra-core.cvedcdigital.vip#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.66.212:443?sni=de1.obxodvpn.us#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https3a2f2ft.me2fwangcai2efa3bfc3bcc3a1#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?sni=vpn-fr-001.fastervpn.world&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
@@ -81,6 +82,7 @@ hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21151?sni=vpn.
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=vpn-de-002.fastervpn.world&security=tls#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl2.nexfile.net:4444#%40happ_tmn
 hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@112.120.123.140:443?sni=9a07c316-tmkao0-u1vxv2-v3c2.nw4.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=R002-260618&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://8VPFWgN7mbwHWxTC@singapore.062888.xyz:443?sni=www.microsoft.com#%40happ_tmn
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://64c05afc-ce81-4ba0-b697-afa04da1427e@104.168.6.236:44443?sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -257,6 +259,7 @@ hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21182?sni=vpn.l
 hysteria2://1794466637:db57c865-2318-4fd2-8aea-e8ba58ec696d:Sjcl0gc4tJZu1HqNgL502Y4uLCJSzLg9X3R0zYjQ6MQ@31.76.91.168:8443?sni=jp.lumacache.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@64.32.13.230:443?sni=db09351f-tlsio0-0-mv7m.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&downmbps=50&type=tcp&upmbps=10#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
+hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com/Alvin9999-newpac/fanqiang&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?sni=bing.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&disable_sni=true&downmbps=55&obfsParam=&peer=163.172.117.163&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
@@ -297,5 +300,6 @@ hysteria2://STYyftThFn@freedom.chenlan.top:12765#%40happ_tmn
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21147?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@201.8.64.7:443?sni=nlll.obxodvpn.us#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?insecure=0&sni=pl3.nexfile.net&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://eb9888f5-66ec-481d-a82f-0f4e6277f098@129.146.124.201:51000?sni=cn.cremedelamer.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?sni=pl3.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?insecure=0&sni=pl3.nexfile.net&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
