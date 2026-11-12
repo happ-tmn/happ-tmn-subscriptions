@@ -123,6 +123,7 @@ hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443?sni=gui
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?sni=pl3.nexfile.net&security=tls#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?sni=pl3.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
+hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@f7f87486-tmm5c0-ts3rye-mrtr.nw4.hyhuawei.com:443?sni=f7f87486-tmm5c0-ts3rye-mrtr.nw4.hyhuawei.com#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://Hy2OracleTokyo2026Owner@168.110.16.191:443?sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
@@ -208,6 +209,7 @@ hysteria2://4ab7d1e3-f2a7-44ca-91bd-45d3c5f423d2@158.101.140.31:1985?sni=158.101
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=t.me#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://30f5e94a-3e13-4270-9f90-60827bef6671@161.33.152.237:443?sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@203.218.217.94:443?sni=fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria://198.200.57.142:22335?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://30f5e94a-3e13-4270-9f90-60827bef6671@141.147.160.26:443?sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=css.rbxcdn.com#%40happ_tmn
 hysteria2://8f99107c-f091-11ee-9935-f23c9164ca5d@4e3e8635-tmm5c0-tvh2gy-1qzi1.hk3.hyhuawei.com:443#%40happ_tmn
