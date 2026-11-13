@@ -318,4 +318,4 @@ hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=66.94.121.46#%F0%9F%87%BA%F0
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1#%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.102:4444?sni=pl1.nexfile.net#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=155.248.209.237#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-hysteria2://eb9888f5-66ec-481d-a82f-0f4e6277f098@129.146.124.201:51000?sni=cn.cremedelamer.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://abedf59203ff9523@138.2.37.59:17826?insecure=1&obfs=salamander&obfs-password=ce8a8b39835f0ce5340cf548892e8e71&sni=www.bing.com&mport=17826%2C20000-40000#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
