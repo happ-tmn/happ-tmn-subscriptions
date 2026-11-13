@@ -28,35 +28,35 @@
 
 ## 📥 Выбери подписку
 
-**Всего конфигураций: 22,769** · удалено повторов за сборку: **288** · обновлено: **2026-11-13 13:26:38 UTC**.
+**Всего конфигураций: 22,840** · удалено повторов за сборку: **300** · обновлено: **2026-11-13 21:58:22 UTC**.
 
 Нажми «Открыть TXT» или скопируй адрес ссылки в Nekobox.
 
 <!-- HAPP_TMN_COUNTS_START -->
 | Подписка | Конфигураций | Ссылка |
 |:--|--:|:--|
-| 🌍 Все конфигурации | **22,769** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/all.txt) |
-| 💎 VLESS Reality Vision | **2,119** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality-vision.txt) |
-| 🔐 VLESS Reality | **3,099** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality.txt) |
-| ⚡ VLESS | **21,555** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless.txt) |
-| 📡 VMess | **381** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess.txt) |
-| 🛡️ Trojan | **192** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan.txt) |
-| 🌪️ Shadowsocks | **304** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ss.txt) |
+| 🌍 Все конфигурации | **22,840** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/all.txt) |
+| 💎 VLESS Reality Vision | **2,037** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality-vision.txt) |
+| 🔐 VLESS Reality | **3,054** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality.txt) |
+| ⚡ VLESS | **21,569** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless.txt) |
+| 📡 VMess | **385** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess.txt) |
+| 🛡️ Trojan | **195** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan.txt) |
+| 🌪️ Shadowsocks | **340** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ss.txt) |
 | 🌊 ShadowsocksR | **7** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ssr.txt) |
-| 🚀 Hysteria2 | **324** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/hysteria2.txt) |
+| 🚀 Hysteria2 | **338** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/hysteria2.txt) |
 | ✨ TUIC | **6** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tuic.txt) |
-| 🌐 WebSocket | **15,860** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ws.txt) |
-| 📦 XHTTP | **1,160** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/xhttp.txt) |
-| 🧩 gRPC | **870** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/grpc.txt) |
-| 🔒 TLS | **14,638** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tls.txt) |
-| 🔐 Reality | **3,099** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/reality.txt) |
-| 🔓 Без TLS / Reality | **5,011** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/none.txt) |
-| 🔌 TCP | **4,028** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tcp.txt) |
-| 🔗 HTTPUpgrade | **267** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/httpupgrade.txt) |
+| 🌐 WebSocket | **15,881** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ws.txt) |
+| 📦 XHTTP | **1,225** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/xhttp.txt) |
+| 🧩 gRPC | **892** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/grpc.txt) |
+| 🔒 TLS | **14,692** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tls.txt) |
+| 🔐 Reality | **3,054** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/reality.txt) |
+| 🔓 Без TLS / Reality | **5,073** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/none.txt) |
+| 🔌 TCP | **3,995** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tcp.txt) |
+| 🔗 HTTPUpgrade | **268** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/httpupgrade.txt) |
 | 📨 HTTP/2 | **0** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/h2.txt) |
-| ⚡ VLESS TLS WS | **12,035** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/tls/ws.txt) |
-| 📦 VLESS XHTTP | **1,160** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/xhttp.txt) |
-| 🛡️ Trojan TLS | **162** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan/tls.txt) |
+| ⚡ VLESS TLS WS | **12,050** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/tls/ws.txt) |
+| 📦 VLESS XHTTP | **1,225** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/xhttp.txt) |
+| 🛡️ Trojan TLS | **160** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan/tls.txt) |
 | 📡 VMess TLS WS | **78** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess/tls/ws.txt) |
 <!-- HAPP_TMN_COUNTS_END -->
 
