@@ -9,6 +9,7 @@ hysteria2://1794613669:ead4a562-edf2-40cf-ad33-13ae98546226:GodL9--mNBsO-qbuKpMG
 hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@45.192.12.173:443?sni=arena.lalibobi.online#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://e45c1654-9184-40c7-b68b-2929ce2a0a89@86.107.179.245:443?sni=cruises-cdn.travel-blogmir.blog#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com/Alvin9999-newpac/fanqiang&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://448317ca-1c02-45f9-8786-c99b74743cd9@177.202.78.190:443?sni=van.nordic-wave.ru#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@157.173.16.59:443?sni=static.hain.lalibobi.online#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&disable_sni=true&downmbps=55&obfsParam=&peer=163.172.117.163&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
@@ -22,12 +23,14 @@ hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@201.58.139.134:443?sni=static.b
 hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com&security=tls#%F0%9F%87%AE%F0%9F%87%B1%20%40happ_tmn
 hysteria2://c11ff50c-f582-11ee-94df-f23c9164ca5d@198.2.222.208:443?sni=3afac95e-tmm5c0-u3xqxa-1q91p.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&downmbps=55&upmbps=11&x_toolall-mihomo=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?sni=vpn-us-004.fastervpn.world&security=tls#%40happ_tmn
 hysteria://198.200.57.142:22335?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria://5.83.129.143:26691?alpn=h3&auth=dongtaiwang.com&downmbps=55&sub_tag=R002-260618&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://1794613669:ead4a562-edf2-40cf-ad33-13ae98546226:w6rqI78K6gfxJcFQhWRiJ1E9algZc0n57ZAqMSmYlwA@212.41.9.190:36109?sni=hu.lumacache.com#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://448317ca-1c02-45f9-8786-c99b74743cd9@lew.nordic-wave.ru:443?sni=lew.nordic-wave.ru#%40happ_tmn
 hysteria2://e45c1654-9184-40c7-b68b-2929ce2a0a89@ush2.shazamri.xyz:443?sni=ush2.shazamri.xyz#%40happ_tmn
 hysteria2://7d4a5c8f-0cdb-41b9-8898-807a1b7335e4@2.26.187.21:443?sni=kraw-pl-3.fantoff.online#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://4ab7d1e3-f2a7-44ca-91bd-45d3c5f423d2@158.101.140.31:1985?sni=158.101.140.31#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
@@ -48,9 +51,11 @@ hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@fr1.xiaoliyu.cyou:1888?insecure
 hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?sni=static.parnu.lalibobi.online&hop_interval=10#%F0%9F%87%AA%F0%9F%87%AA%20%40happ_tmn
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@201.58.190.235:443?sni=hy2-pl.snobvpn.online&obfs=salamander&obfs-password=sFQIE4F3SbaXCYoCQTY-4YvYiif8__By&pinSHA256=8951ff7b7cd60fb28b7982f03fbe9c4739bf43e6b2a3a64c8dc45276f92b366b#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
+hysteria2://448317ca-1c02-45f9-8786-c99b74743cd9@177.202.71.244:443?sni=lew.nordic-wave.ru#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com/Alvin9999-newpac/fanqiang&servername=bing.com&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@sg1.xiaoliyu.cyou:2056?sni=sg1.xiaoliyu.cyou#%40happ_tmn
 hysteria2://abedf59203ff9523@138.2.37.59:17826?sni=www.bing.com&obfs=salamander&obfs-password=ce8a8b39835f0ce5340cf548892e8e71&mport=17826,20000-40000#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
+hysteria2://448317ca-1c02-45f9-8786-c99b74743cd9@van.nordic-wave.ru:443?sni=van.nordic-wave.ru#%40happ_tmn
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
+hysteria2://Yuike2026cat@43.130.234.128:8443?sni=43-130-234-128.sslip.io#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?insecure=0&alpn=h3&sni=fl5.edgeport.cloud#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@157.173.16.59:443?sni=static.hain.lalibobi.online&hop_interval=10#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
