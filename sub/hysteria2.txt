@@ -28,7 +28,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?sni=vpn-hk-0
 hysteria2://e45c1654-9184-40c7-b68b-2929ce2a0a89@147.45.60.156:443?sni=ush2.shazamri.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://bc60e93b-1c62-45fc-9c1d-c26285b29e7e@217.60.33.146:1443?sni=infra-core.cvedcdigital.vip#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
-hysteria2://25fc285774894f08833f43c2840db418@81.16.16.36:443?sni=s4.libertyrunet.store&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://4ab7d1e3-f2a7-44ca-91bd-45d3c5f423d2@158.101.140.31:1985?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://lCk4_xMXmmLQV45zGLuQ5BRmzKEHDU8Q@assets.stackbase-dev.com:443?sni=assets.stackbase-dev.com&security=tls#%40happ_tmn
 hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@196.240.181.9:25318?sni=775c8bt.lt4.h1clayd.click&pinSHA256=c160863aa7f46bdc2bd6a925fbebce3a515244a614828e8d949bba858b19effc#%F0%9F%87%A7%F0%9F%87%AA%20%40happ_tmn
@@ -39,6 +38,7 @@ hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&password
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&downmbps=55&upmbps=11&x_toolall-mihomo=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?sni=www.bing.com#%F0%9F%87%AE%F0%9F%87%B1%20%40happ_tmn
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
+hysteria2://1e697474-7836-47ed-aaca-b559efcbb298@eu90.cdn77.icu:8455?sni=eu36.cdn77.icu&security=tls#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?sni=vpn-us-004.fastervpn.world&security=tls#%40happ_tmn
 hysteria://198.200.57.142:22335?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?sni=bl1.nexfile.net&security=tls#%40happ_tmn
@@ -66,6 +66,7 @@ hysteria://137.175.82.44:20022?alpn=h3&auth=dongtaiwang.com&downmbps=55&upmbps=1
 hysteria2://a0332905-c12a-4378-9194-c0ae704c5dc5@game.linkyoufast.top:443?sni=game.linkyoufast.top#%40happ_tmn
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=R002-260618&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://eb9888f5-66ec-481d-a82f-0f4e6277f098@192.9.179.140:51000?sni=cn.cremedelamer.com#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
+hysteria2://25fc285774894f08833f43c2840db418@81.16.16.36:443?sni=s4.libertyrunet.store#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@206.245.153.57:8443?sni=hy2-nl.snobvpn.online&obfs=salamander&obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2&pinSHA256=3d4bb251a1dfb0e132f9c5f4dbfef83bb7b3cf29ea1cdb8decea2f68365009c5#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@fr1.xiaoliyu.cyou:1888?insecure=1&obfs=salamander&obfs-password=RC5TGEB*9=JV#%40happ_tmn
 hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@64.188.78.32:443?sni=static.parnu.lalibobi.online&hop_interval=10#%F0%9F%87%AA%F0%9F%87%AA%20%40happ_tmn
@@ -79,3 +80,4 @@ hysteria2://abedf59203ff9523@138.2.37.59:17826?sni=www.bing.com&obfs=salamander&
 hysteria2://448317ca-1c02-45f9-8786-c99b74743cd9@van.nordic-wave.ru:443?sni=van.nordic-wave.ru#%40happ_tmn
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://Yuike2026cat@43.130.234.128:8443?sni=43-130-234-128.sslip.io#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&sni=bl1.nexfile.net&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
