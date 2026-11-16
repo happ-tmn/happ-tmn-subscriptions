@@ -29,6 +29,7 @@ hysteria2://8b64b840-a48d-4ac0-b10f-8f7d7081a0f1@ca.xiaoliyu.cyou:1888?insecure=
 hysteria2://e45c1654-9184-40c7-b68b-2929ce2a0a89@86.107.179.245:443?sni=cruises-cdn.travel-blogmir.blog&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?sni=vpn-sg-001.fastervpn.world#%40happ_tmn
+hysteria2://GnVqzYNYGYRXNUq8fBOxGsv9pNBdYvKP@204.152.221.177:443?sni=www.bing.com&obfs=salamander&obfs-password=0Jy/BjMrgPxwRG9bx+YIyZz2hqUfE7Cf#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.126.237.178:443?insecure=1#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 hysteria2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.126.237.178:443?hop_interval=10#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 hysteria2://dfb9db81-074c-4c3c-b74b-bd3f3f20d8ea@152.175.120.157:28838?sni=us-2.149638.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -56,6 +57,7 @@ hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqian
 hysteria://62.210.28.175:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=R002-260618&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.126.237.178:443?sni=185.126.237.178#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@56.10.14.204:443?sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
+hysteria2://4afd4e1b1b0edd429b10d800a1cf64a7@47.89.232.46:8443?sni=hysteria2.local#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com/Alvin9999-newpac/fanqiang&servername=bing.com&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&downmbps=55&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria://5.83.129.90:54177?auth=dongtaiwang.com&upmbps=500&downmbps=1000&security=tls&sni=apple.com&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
