@@ -1,6 +1,7 @@
 vless://8918e563-f587-4d10-a8c5-4317b0a50271@ksodpa.nicenetworld.ir:2052?type=httpupgrade&encryption=mlkem768x25519plus.native.0rtt.wroazbgrzznqdwwx8gz53xppu8tgqsjppx8mt98yarc&host=ns1.nicenetworld.ir#%40happ_tmn
 vless://65bc0870-eb6c-4f0d-8036-1ab7396d4793@dance-production-1748d403.up.railway.app:443?type=httpupgrade&security=tls&fp=chrome&sni=dance-production-1748d403.up.railway.app&path=/in2#%40happ_tmn
 vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@43.174.247.25:443?type=httpupgrade&security=tls&encryption=mlkem768x25519plus.native.0rtt._qy1mwcrbsc4vr5v1hzkhjmtnsnmirvvkwwc_fbcuci&fp=chrome&sni=www.binodes.com&path=/msn&host=ded2http.samcdn.shop#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
+vless://b61580cd-bc64-466c-bde9-3533aed885d0@104.21.25.112:443?type=httpupgrade&security=tls&fp=firefox&sni=eu.workingserverpro.qzz.io&path=/user&host=eu.workingserverpro.qzz.io#%40happ_tmn
 vless://8918e563-f587-4d10-a8c5-4317b0a50271@161.145.150.95:2052?type=httpupgrade&encryption=mlkem768x25519plus.native.0rtt.wroazbgrzznqdwwx8gz53xppu8tgqsjppx8mt98yarc&host=ns1.nicenetworld.ir#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vless://tel%253A%2540mahanvpn@172.67.166.175:2052?type=httpupgrade&encryption=none&flow=&host=mAhaNteAm.noD32Cpu.iR.&path=%2FmAhAnteaM%2C%3Fed%3D2560#%40happ_tmn
 vless://5821b1f3-52c6-480c-85a2-2355b753df68@104.21.64.189:443?encryption=none&security=tls&sni=ddr.tavrin-technology-services.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=ddr.tavrin-technology-services.ir&path=#%40happ_tmn
