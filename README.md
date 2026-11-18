@@ -28,36 +28,36 @@
 
 ## 📥 Выбери подписку
 
-**Всего конфигураций: 23,664** · удалено повторов за сборку: **321** · обновлено: **2026-11-17 22:08:11 UTC**.
+**Всего конфигураций: 23,850** · удалено повторов за сборку: **347** · обновлено: **2026-11-18 01:34:01 UTC**.
 
 Нажми «Открыть TXT» или скопируй адрес ссылки в Nekobox.
 
 <!-- HAPP_TMN_COUNTS_START -->
 | Подписка | Конфигураций | Ссылка |
 |:--|--:|:--|
-| 🌍 Все конфигурации | **23,664** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/all.txt) |
-| 💎 VLESS Reality Vision | **2,227** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality-vision.txt) |
-| 🔐 VLESS Reality | **3,695** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality.txt) |
-| ⚡ VLESS | **22,420** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless.txt) |
-| 📡 VMess | **339** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess.txt) |
-| 🛡️ Trojan | **201** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan.txt) |
-| 🌪️ Shadowsocks | **380** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ss.txt) |
+| 🌍 Все конфигурации | **23,850** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/all.txt) |
+| 💎 VLESS Reality Vision | **2,270** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality-vision.txt) |
+| 🔐 VLESS Reality | **3,795** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/reality.txt) |
+| ⚡ VLESS | **22,581** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless.txt) |
+| 📡 VMess | **348** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess.txt) |
+| 🛡️ Trojan | **196** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan.txt) |
+| 🌪️ Shadowsocks | **390** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ss.txt) |
 | 🌊 ShadowsocksR | **5** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ssr.txt) |
-| 🚀 Hysteria2 | **319** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/hysteria2.txt) |
+| 🚀 Hysteria2 | **330** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/hysteria2.txt) |
 | ✨ TUIC | **0** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tuic.txt) |
-| 🌐 WebSocket | **16,164** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ws.txt) |
-| 📦 XHTTP | **1,176** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/xhttp.txt) |
+| 🌐 WebSocket | **16,195** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/ws.txt) |
+| 📦 XHTTP | **1,227** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/xhttp.txt) |
 | 🧩 gRPC | **1,001** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/grpc.txt) |
-| 🔒 TLS | **14,847** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tls.txt) |
-| 🔐 Reality | **3,695** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/reality.txt) |
-| 🔓 Без TLS / Reality | **5,095** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/none.txt) |
-| 🔌 TCP | **4,463** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tcp.txt) |
-| 🔗 HTTPUpgrade | **273** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/httpupgrade.txt) |
+| 🔒 TLS | **14,905** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tls.txt) |
+| 🔐 Reality | **3,795** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/reality.txt) |
+| 🔓 Без TLS / Reality | **5,122** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/none.txt) |
+| 🔌 TCP | **4,552** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/tcp.txt) |
+| 🔗 HTTPUpgrade | **274** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/httpupgrade.txt) |
 | 📨 HTTP/2 | **0** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/h2.txt) |
-| ⚡ VLESS TLS WS | **12,241** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/tls/ws.txt) |
-| 📦 VLESS XHTTP | **1,176** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/xhttp.txt) |
-| 🛡️ Trojan TLS | **169** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan/tls.txt) |
-| 📡 VMess TLS WS | **62** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess/tls/ws.txt) |
+| ⚡ VLESS TLS WS | **12,268** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/tls/ws.txt) |
+| 📦 VLESS XHTTP | **1,227** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vless/xhttp.txt) |
+| 🛡️ Trojan TLS | **166** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/trojan/tls.txt) |
+| 📡 VMess TLS WS | **65** | [Открыть TXT](https://raw.githubusercontent.com/happ-tmn/happ-tmn-subscriptions/main/sub/vmess/tls/ws.txt) |
 <!-- HAPP_TMN_COUNTS_END -->
 
 > Цифры показывают число записей, **не** количество проверенных работающих серверов. Одна конфигурация может входить в несколько тематических подборок.
