@@ -226,6 +226,7 @@ hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?sni=www.bing.com&
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=66.94.121.46#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=css.rbxcdn.com#%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+hysteria2://u9axzkplfc3463am@sub.macdonalder.cyou:16146?sni=sub.macdonalder.cyou&obfs=salamander&obfs-password=mn1g0eianbese7bl#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=127.0.0.1#%40happ_tmn
 hysteria2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@3de2432e-tmm5c0-tonrqx-1khwf.hk3.hyhuawei.com:443?sni=3de2432e-tmm5c0-tonrqx-1khwf.hk3.hyhuawei.com#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclickvpnkeys#%40happ_tmn
