@@ -265,4 +265,3 @@ hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124#%F0%9F%87%B7%F0%9F%87
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=t.me&security=tls#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https://t.me/wangcai2\x9f\x87\x9f\x87#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
-hysteria2://b006650f-8771-0001-b7fa-e18fc6e80ef1@168.113.254.247:443?insecure=1&alpn=h3&sni=vcerx-ru-67sb.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
