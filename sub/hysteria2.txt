@@ -52,6 +52,7 @@ hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?sni=www.microsoft.com&obfs=s
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?allow_insecure=1&path=/#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:5443?sni=germany.cloudhouse1.ru#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+hysteria2://fce629d692a7b1ad71a17dae29d8b3c6@172.87.24.53:8443?sni=hy2k2p.local#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://d3863595-3afe-4a74-8305-612ab69cd21c@fi15.h1cloud.net:25181?sni=4c980ft.fi15.h1clayd.click&fp=firefox#%40happ_tmn
 hysteria2://linlin-2026@13.237.192.121:36712?insecure=1#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?sni=127.0.0.1&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
@@ -74,8 +75,8 @@ hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?sni=bing.com#%F0%9F%87%AF%F
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:443?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=t.me#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu34.cdn77.icu:8444?sni=eu34.cdn77.icu&security=tls#%40happ_tmn
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?sni=steel7.hadsvpn.com&security=tls#%40happ_tmn
 hysteria2://hAUdd15a7YGHUSgiPOUz@43.103.2.53:443?insecure=1&obfs=salamander&obfs-password=9veAh9pTbrAfDwM1fIYI&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?sni=steel7.hadsvpn.com&security=tls#%40happ_tmn
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=t.me&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=50&sub_tag=P002-260618&upmbps=10&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
