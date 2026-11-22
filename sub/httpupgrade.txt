@@ -1,5 +1,4 @@
 vless://ed809ef1-338d-4355-b9e8-2de0e522202f@216.24.57.1:2095?type=httpupgrade&host=xn--alspeedtest.net.onlinewebsite24.ir#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-vless://ed809ef1-338d-4355-b9e8-2de0e522202f@render.com:2095?type=httpupgrade&sni=render.com&host=xn--alspeedtest.net.onlinewebsite24.ir#%40happ_tmn
 vmess://014f8bf6-9221-4f99-838f-4c16ca90334f@91.107.169.224:80?encryption=auto&type=httpupgrade&host=google.whatsapp.snapp.torob.basalam.dns-look.space.#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 vmess://014f8bf6-9221-4f99-838f-4c16ca90334f@91.107.169.224:80?type=httpupgrade&path=/&host=google.whatsapp.snapp.torob.basalam.dns-look.space.#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 vless://05b8bddf-ff28-4504-b12a-33df21f52319@49.12.36.119:443?type=httpupgrade&security=tls&fp=firefox&sni=germanyhetz.onlineblog.ir&host=germanyhetz.onlineblog.ir#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
