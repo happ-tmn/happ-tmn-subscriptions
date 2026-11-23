@@ -12,6 +12,7 @@ hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@nb5rb.hikigo.com:443?sni=nb5rb.
 hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@144.31.7.199:443?sni=scorebucket.nemoi-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=vpn-tw-002.fastervpn.world&security=tls#%40happ_tmn
 hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@212.18.104.210:443?sni=cursorresize.comparecarprices.org#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@ahysg1.hikigo.com:8443?sni=ahysg1.hikigo.com#%40happ_tmn
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@hkzfsg2.mateflora.com:443?sni=hkzfsg2.mateflora.com&obfs=salamander&obfs-password=fcfqz5o4znnjqtrp#%40happ_tmn
 hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@147.45.221.225:443?sni=nl.lucheeebezlimitnoekino.stream#%F0%9F%87%A6%F0%9F%87%B1%20%40happ_tmn
@@ -349,3 +350,4 @@ hysteria2://54aa711f-ae15-4f3c-8706-9ff634c1d6ef@31.76.3.51:443?sni=accessfooter
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?sni=3.76.203.180#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria://62.210.124.132:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?sni=off#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@166.0.28.140:443?sni=static-de.snobmenu.xyz&obfs=salamander&obfs-password=S4iBMpc3aIzLC1c-6fE6rU15ZzXyfjr0ciGdh0A3alI#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
