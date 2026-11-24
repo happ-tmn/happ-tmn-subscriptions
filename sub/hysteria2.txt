@@ -154,6 +154,7 @@ hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=
 hysteria2://fdbd8fb8-7d27-4bd8-9da1-1e42c4876835@rutubers.space:443?sni=rutubers.space&fm={"quicParams":{"debug":false,"congestion":"bbr","maxIdleTimeout":30,"keepAlivePeriod":10,"maxIncomingStreams":1024,"maxStreamReceiveWindow":8388608,"disablePathMTUDiscovery":false,"initStreamReceiveWindow":8388608,"maxConnectionReceiveWindow":20971520,"initConnectionReceiveWindow":20971520}}#%40happ_tmn
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%40happ_tmn
 hysteria2://54aa711f-ae15-4f3c-8706-9ff634c1d6ef@144.31.3.86:443?sni=dealaspen.ratethatrestaurant.org#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
+hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://lvu_fb79ddb9bbda86f657cf34ee5dbe40bd_cf1aff9abf2b3945664fd63a07229839:np2.1.Q6bg95HDIqzwSQwdlbeS4-tGJpT8yFUcNQd7KGxqbXU@n37.neproxy.net:443?sni=n37.neproxy.net&security=tls#%40happ_tmn
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=150-230-252-217.liao.kdns.fr#%40happ_tmn
 hysteria2://54aa711f-ae15-4f3c-8706-9ff634c1d6ef@2.26.191.37:443?sni=waybillmenu.obsch-self.co.uk#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
@@ -413,3 +414,4 @@ hysteria2://36187bef1c708c82fd4099b9d70116ffd8c0f1f5bfd19cbb319eeb67899714f6@156
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz&security=tls#%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?sni=vpn-fr-001.fastervpn.world#%40happ_tmn
+hysteria2://fanvpn.net@104.233.178.179:443?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
