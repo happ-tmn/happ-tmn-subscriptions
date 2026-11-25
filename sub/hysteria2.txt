@@ -24,6 +24,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?sni=vpn-hk-0
 hysteria2://linlin-2026@13.55.52.44:36712?sni=13.55.52.44#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
 hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.154.18:40055?sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=6fltjteoyab7fjf1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://linlin-2026@3.106.35.101:36712?sni=3.106.35.101#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
+hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?sni=bl1.nexfile.net&security=tls#%F0%9F%87%A7%F0%9F%87%BE%20%40happ_tmn
 hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&peer=bing.com&servername=bing.com&sub_tag=noCache&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -134,6 +135,7 @@ hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=www.bing.com
 hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=140.238.213.114#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?sni=vpn-sg-001.fastervpn.world#%40happ_tmn
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?sni=off#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1#%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
@@ -239,3 +241,4 @@ hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru#%F0%9F
 hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@ru2.streamclubz.com:443?sni=ru2.streamclubz.com#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://linlin-2026@13.55.52.44:36712?sni=off#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?insecure=0&alpn=h3&sni=mother-earth.fyi&obfs=&obfs-password=#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
