@@ -3,6 +3,7 @@ vmess://418048af-a293-4b99-9b0c-98ca3580dd24@38.11.69.48:30004?type=ws&security=
 vmess://6a89a215-22bf-4bd7-9642-b95b2e09583a@172.64.145.93:443?type=ws&security=tls&path=/hls/cctv5phd.m3u8?ed&host=guanwang.awsno.com#%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?encryption=none&type=ws&security=tls&path=/lMnsZUN4/&host=v2ray1.dozapp.xyz&sni=v2ray1.dozapp.xyz#%40happ_tmn
 vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.877771.xyz:443?type=ws&security=tls&path=/ws&host=vmess.lbw666.dpdns.org&sni=vmess.lbw666.dpdns.org#%40happ_tmn
+vmess://2a4d24bf-367a-4951-bfe6-50c7a0bdb5ea@speaks-our-uni-twist.trycloudflare.com:443?type=ws&security=tls&path=/2a4d24bf-367a-4951-bfe6-50c7a0bdb5ea-vm&host=speaks-our-uni-twist.trycloudflare.com&sni=speaks-our-uni-twist.trycloudflare.com#%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@172.67.167.78:8443?type=ws&security=tls&path=/lMnsZUN4/&host=v2ray1.dozapp.xyz&sni=v2ray1.dozapp.xyz#%40happ_tmn
 vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@172.66.203.67:443?type=ws&security=tls&path=/ws?ed=2048&host=vmess.lbw666.dpdns.org&sni=vmess.lbw666.dpdns.org&fp=chrome#%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.18.32.47:8443?type=ws&security=tls&path=/lMnsZUN4/&sni=v2ray1.dozapp.xyz#%40happ_tmn

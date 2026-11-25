@@ -48,10 +48,12 @@ vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.877771.xyz:443?type=ws&security=
 vmess://5c040f1d-45db-43bd-8d46-e4950e433735@38.128.66.241:1270?type=tcp&security=tls&sni=xmfhlpy.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://f38e591d-d13a-4c30-9763-6be3ad65f3ec@de.zhou-yufan.com:443?type=tcp&security=tls&sni=de.zhou-yufan.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 vmess://9db4c708-aef8-4359-821b-38e47990be0d@152.67.8.205:80?type=ws&path=/#%F0%9F%87%AE%F0%9F%87%B3%20%40happ_tmn
+vmess://853a251f-de85-40cc-84a6-ab8748c7258c@8.213.211.160:18565?type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?type=tcp&host=us032021.ssgreen.org#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-jpv2.kunlun01dns.com:16120?type=tcp#%40happ_tmn
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-tw.kunlun01dns.com:21036?type=tcp#%40happ_tmn
 vmess://5c040f1d-45db-43bd-8d46-e4950e433735@167.88.63.37:1270?type=tcp&security=tls&sni=xmfhlpy.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+vmess://2a4d24bf-367a-4951-bfe6-50c7a0bdb5ea@speaks-our-uni-twist.trycloudflare.com:443?type=ws&security=tls&path=/2a4d24bf-367a-4951-bfe6-50c7a0bdb5ea-vm&host=speaks-our-uni-twist.trycloudflare.com&sni=speaks-our-uni-twist.trycloudflare.com#%40happ_tmn
 vmess://5c040f1d-45db-43bd-8d46-e4950e433735@193.108.117.61:1270?type=tcp&security=tls&sni=xmfhlpy.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 vmess://5c040f1d-45db-43bd-8d46-e4950e433735@162.251.62.44:1270?type=tcp&security=tls&sni=xmfhlpy.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?type=tcp#%40happ_tmn
@@ -187,6 +189,7 @@ vmess://5c040f1d-45db-43bd-8d46-e4950e433735@169.197.142.68:1270?type=tcp&securi
 vmess://5c040f1d-45db-43bd-8d46-e4950e433735@38.91.107.57:1270?type=tcp&security=tls&sni=xmfhlpy.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://5c040f1d-45db-43bd-8d46-e4950e433735@38.128.66.212:1270?type=tcp&security=tls&sni=xmfhlpy.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-hkv1.kunlun01dns.com:16115?type=tcp#%40happ_tmn
+vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16284?type=tcp#%40happ_tmn
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-kr.kunlun01dns.com:21004?type=tcp#%40happ_tmn
 vmess://6a89a215-22bf-4bd7-9642-b95b2e09583a@www.shopify.com:443?type=ws&security=tls&path=/hls/cctv5phd.m3u8&host=guanwang.awsno.com&sni=guanwang.awsno.com&fp=safari#%40happ_tmn
 vmess://60441548-b68e-43b2-8191-e3b884be4b3c@chatgpt.com:8443?type=ws&security=tls&path=/lMnsZUN4/&host=v2ray1.dozapp.xyz#%40happ_tmn

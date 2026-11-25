@@ -17,6 +17,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?allowInsecure=1&typ
 trojan://sshs8_6481354771@86.38.247.109:2087?type=raw&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?type=tcp&security=tls&fp=chrome&sni=courses.browseseniorrolesandenhanceyourcareertoday.com&host=/?telegram---planb_net---planb_net---planb_net---planb_net#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?type=ws&sni=ra-p1.victorycloud.ru&alpn=http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
+trojan://YektaCloud@31.56.229.22:8443?type=ws&security=tls&fp=firefox&sni=31.56.229.22&alpn=h2,h3,http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?allowInsecure=1&type=tcp&security=tls&fp=firefox&sni=www.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 trojan://1vkFHbQX_gN1U8V8jVc@104.19.70.201:443?type=ws&sni=mhpanel.kigaping.com#%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=api.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
