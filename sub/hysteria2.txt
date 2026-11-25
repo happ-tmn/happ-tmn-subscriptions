@@ -31,6 +31,7 @@ hysteria2://linlin-2026@3.106.35.101:36712?sni=3.106.35.101#%F0%9F%87%A6%F0%9F%8
 hysteria2://fdbd8fb8-7d27-4bd8-9da1-1e42c4876835@129.101.103.57:443?sni=russtremers.space#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&peer=bing.com&servername=bing.com&sub_tag=noCache&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#%F0%9F%87%AE%F0%9F%87%B7%20%40happ_tmn
 hysteria2://00094b43-04c7-464b-a3d0-72da5fe0e68b@177.3.252.187:443?sni=quattro-vpn-zalupa.cxhub.su#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=google.com#%40happ_tmn
@@ -86,7 +87,6 @@ hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=
 hysteria2://fdbd8fb8-7d27-4bd8-9da1-1e42c4876835@rutubers.space:443?sni=rutubers.space&fm={"quicParams":{"debug":false,"congestion":"bbr","maxIdleTimeout":30,"keepAlivePeriod":10,"maxIncomingStreams":1024,"maxStreamReceiveWindow":8388608,"disablePathMTUDiscovery":false,"initStreamReceiveWindow":8388608,"maxConnectionReceiveWindow":20971520,"initConnectionReceiveWindow":20971520}}#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.54:443?sni=vpn-hk-004.fastervpn.world&allow_insecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%40happ_tmn
-hysteria://38.6.222.132:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=150-230-252-217.liao.kdns.fr#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?sni=13.36.234.11#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://d283bbfe-d5cd-4576-bc1a-630a7a5ad829@147.45.221.225:443?sni=nl.lucheeebezlimitnoekino.stream#%F0%9F%87%A6%F0%9F%87%B1%20%40happ_tmn
