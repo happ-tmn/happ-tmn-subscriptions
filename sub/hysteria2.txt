@@ -129,6 +129,7 @@ hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46fac
 hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria://198.200.57.142:22335?insecure=1&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@n42.neproxy.net:14443?sni=n37.neproxy.net&security=tls#%40happ_tmn
+hysteria2://0c66ef78-33b9-4f88-9529-50db9919fd33@195.209.217.251:30443?sni=dlfd3b.static.tv-av.fun#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8446?sni=vpn.local&obfs=salamander&obfs-password=HVD1C0uyo38mMz8B#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@45.88.12.121:443?sni=n48.neproxy.net#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@216.158.234.235:25477?sni=b1636ft.us17.h1clayd.shop&pinSHA256=df817af6d3b9bd450c6245173355c87352446f7a670d955568e262f6969724a9#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -237,3 +238,5 @@ hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?sni=www.bing.com&o
 hysteria://62.210.124.132:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&protocol=udp&upmbps=11&x_toolall-mihomo=true&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://maintell@152.70.237.123:2053?sni=152.70.237.123#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=t.me#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+hysteria2://ePPsH1bMFD@23.141.172.229:50541?insecure=1&sni=is1-ssl.mzstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20%40happ_tmn
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?insecure=0&alpn=h3&sni=mother-earth.fyi&obfs=&obfs-password=#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
