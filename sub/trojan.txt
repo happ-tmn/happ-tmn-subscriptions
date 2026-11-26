@@ -1,5 +1,6 @@
 trojan://1vkFHbQX_gN1U8V8jVc@104.16.26.10:443?type=ws&sni=mhpanel.kigaping.com#%40happ_tmn
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20051?type=tcp&sni=hk.catxstar.com#%40happ_tmn
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?type=ws&security=tls&fp=chrome&host=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http/1.1#%40happ_tmn
 trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?type=tcp&sni=www.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -33,6 +34,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?allowInsecure=1&typ
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.85:443?security=tls&fp=chrome&sni=resources.browseseniorrolesandenhanceyourcareertoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.9:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=resources.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&fp=chrome&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&fp=chrome&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http/1.1#%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?type=tcp&security=tls&fp=chrome&sni=api.browseseniorrolesandenhanceyourcareertoday.com&host=/?telegram---marambashi---marambashi---marambashi---marambashi#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.107:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=blog.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=1&type=tcp&security=tls&fp=firefox&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn

@@ -10,7 +10,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https:#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=off#%40happ_tmn
 hysteria2://linlin-2026@13.55.52.44:36712?insecure=1#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=off#%40happ_tmn
-vless://73796e63-0000-4000-8000-000000000007@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2086?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16258?type=tcp#%40happ_tmn
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?sni=t.me#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-jpv2.kunlun01dns.com:16122?type=tcp#%40happ_tmn
@@ -18,6 +17,7 @@ hysteria2://fce629d692a7b1ad71a17dae29d8b3c6@172.87.24.53:8443?sni=hy2k2p.local#
 vmess://9b76bc31-17a5-4454-934a-8d5fb602cd70@119.46.51.45:37515?type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20%40happ_tmn
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?type=ws&sni=sc-thenetherlands2.09vpn.com#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?type=tcp&host=@proxyvpn11#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
+vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.249:443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.nhopnlmt_obbre9yodtzva_tcx4cf2tz2reh_jrwqco#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 vmess://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?type=ws&path=/cctv13.m3u8&host=jp01.a0a.xyz#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@104.17.147.222:80?encryption=none&type=ws&path=/ws?ed=2048&host=vmess.lbw666.dpdns.org#%40happ_tmn
 vmess://a915b1d6-cf28-4dc8-e4b4-e09c48c37ec0@129.154.61.196:800?type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
@@ -154,6 +154,7 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003?#%F0%9F%87%B5%F0%9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?type=ws&host=zoom.us#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.121.43.225:19999?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@2.27.5.163:443?sni=r7m4.scan-cdn.com&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@195.110.15.216:31652?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=hysteria.udpgw.co&obfs=salamander&obfs-password=HysteriaHowdy#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -210,7 +211,9 @@ vless://ed809ef1-338d-4355-b9e8-2de0e522202f@104.16.117.43:2095?type=httpupgrade
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080?#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.113:8388?#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+vmess://853a251f-de85-40cc-84a6-ab8748c7258c@8.213.211.160:18565?type=raw#%F0%9F%87%B9%F0%9F%87%AD%20%40happ_tmn
 vmess://1e55beca-3c69-4fa7-fb1f-15c1b767435f@54.37.131.126:80?type=ws&host=google.whatsapp.snapp.torob.basalam.hesanid8.ir.#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
+vmess://672cdade-bb05-4c86-b578-e5d09b79524a@23.165.200.150:52080?type=http&path=/QQqun-737805443&host=down-cdn.dingtalk.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=none&type=raw#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://e2552c42-fdf8-45d4-9be5-98819dcd0211@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@m1.config7x.kz.ci:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#%40happ_tmn
@@ -225,6 +228,7 @@ ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@91.201.65.122:9097?#%F0%9F%87%AE%F0%
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=150-230-252-217.liao.kdns.fr#%40happ_tmn
+vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.245:443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.npitykclp3zk5ulxf_tjxu85nirztq1etgx54vaei0c#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?sni=13.36.234.11#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 vmess://853a251f-de85-40cc-84a6-ab8748c7258c@47.87.64.133:18565?type=tcp#%F0%9F%87%B9%F0%9F%87%AD%20%40happ_tmn
 vless://cffa0e31-7cce-4541-8a2e-4e115873090b@sajed.kdns.fr:443?type=ws&host=sajed.kdns.fr#%40happ_tmn
@@ -285,6 +289,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?type=tcp&host=vmess.lbw666.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041?#%F0%9F%87%AA%F0%9F%87%B8%20%40happ_tmn
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=css.rbxcdn.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.70:9093?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1eGdqaTI4Ynh5eWhtbGVs@81.12.32.42:22684?#%F0%9F%87%AE%F0%9F%87%B7%20%40happ_tmn
@@ -302,7 +307,6 @@ trojan://1vkFHbQX_gN1U8V8jVc@104.24.137.130:443?type=ws&sni=mhpanel.kigaping.com
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU@news.bushyjenz.cyou:42878?#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=whatsapp.com#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
-vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.0sm.com:80?type=ws&path=/ws&host=vmess.lbw666.dpdns.org#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.70:9064?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 vless://ff95d030-691d-4650-bda8-a7f7857b00c3@xhtt2.nimbaha9.ir:80?type=ws&host=xhtt2.nimbaha9.ir#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
@@ -340,7 +344,6 @@ vmess://00736f0b-8715-45b7-888b-ced7aaa637bf@planb.mojcn.com.linuxlh.xin:16622?t
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aElXVkR0YlczTktibW9YcU1INDFiR3J5dlhHbU5QVmlyMC80VFRHTFlNTT0@147.15.80.3:59319?#%F0%9F%87%A7%F0%9F%87%B7%20%40happ_tmn
 trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?type=ws&sni=ra-p1.victorycloud.ru&alpn=http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@47.254.143.251:443?#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
-vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@188.114.97.6:80?type=ws&path=/ws?ed&host=vmess.lbw666.dpdns.org#%40happ_tmn
 hysteria2://111a64ce-3aaf-4154-9ee9-7bcc0e214d7c@177.3.252.187:443?sni=quattro-vpn-zalupa.cxhub.su#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ==@217.30.10.70:9026?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080?#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
@@ -360,7 +363,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0V
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?type=ws&host=sc-thenetherlands2.09vpn.comfreenettirthe#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443?#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?type=ws#%40happ_tmn
-vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.249:443?encryption=mlkem768x25519plus.native.0rtt.nhopnlmt_obbre9yodtzva_tcx4cf2tz2reh_jrwqco#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?type=ws&host=ov-germany1.09vpn.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6dGtoSFZ4eGZNMlFFckJXZQ==@217.30.10.44:9062?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
@@ -420,6 +422,7 @@ vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?type=ws&host=69
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999?#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 vless://b51f6369-b2ab-4dd6-a2e8-d0748f3da1f2@vip.orbxnet.ru:5080?type=ws&encryption=mlkem768x25519plus.native.0rtt.xvkxiaxmbl2lulwjdwyodub5rcokfksqkaumhco-vj0&host=vip.orbxnet.shop#%40happ_tmn
+vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@188.137.228.29:1289?encryption=mlkem768x25519plus.native.0rtt.l4vl8o_tmdeui19vldjyxfjovyodtegf6uk6gqjsdvw#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria://38.6.222.131:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.70:9001?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
@@ -466,7 +469,6 @@ hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.49.216:40055?sni=psstati
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?type=ws&host=152.69.226.63#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?auth=04920673-035c-410d-94e4-5b1469d3fb6f#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria://38.6.222.131:11008?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&upmbps=11&udp=true#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.245:443?encryption=mlkem768x25519plus.native.0rtt.npitykclp3zk5ulxf_tjxu85nirztq1etgx54vaei0c#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA@217.30.10.70:9073?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.53.169:8080?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?type=ws&sni=95.174.68.188&host=95.174.68.188#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
@@ -504,6 +506,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@201.24.117.111:443?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@213.183.63.60:9029?#%F0%9F%87%A7%F0%9F%87%AC%20%40happ_tmn
+vmess://b831381d-6324-4d53-ad4f-8cda48b30811@195.133.135.238:10086?type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ@130.49.189.158:43558?#%F0%9F%87%A6%F0%9F%87%B1%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?sni=127.0.0.1#%40happ_tmn
 hysteria://62.210.124.132:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
@@ -514,6 +517,7 @@ hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=t.me&obfs=salamander&obfs
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=202.146.222.89#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?type=ws&host=ov-germany1.09vpn.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
+vmess://b831381d-6324-4d53-ad4f-8cda48b30811@195.133.135.238:10086?type=raw#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080?#%F0%9F%87%B3%F0%9F%87%B1%20%40happ_tmn
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
@@ -531,7 +535,6 @@ ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.70:9060?#%F0%9F%87%B5%F0%9
 hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@channelru.belka.tv:443?sni=channelru.belka.tv#%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ@107.181.155.27:2089?#%F0%9F%87%B9%F0%9F%87%B7%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001?#%F0%9F%87%B1%F0%9F%87%B9%20%40happ_tmn
-vless://d1ec39e3-ad7b-4b65-9f65-813696f9a04e@alsu.deev-guard.ir:1289?type=tcp&encryption=mlkem768x25519plus.native.0rtt.l4vl8o_tmdeui19vldjyxfjovyodtegf6uk6gqjsdvw#%40happ_tmn
 hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?sni=31.57.248.176#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?sni=off#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@217.30.10.44:9099?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
@@ -544,6 +547,7 @@ vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@188.114.97.6:80?type=ws&path=/ws?ed
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16291?type=tcp#%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?type=tcp&host=telegram-leviko_v2ray#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123?#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
+hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@r7m4.scan-cdn.com:443?sni=r7m4.scan-cdn.com#%40happ_tmn
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?type=ws&host=38.107.232.36#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@91.201.65.122:9059?#%F0%9F%87%AE%F0%9F%87%B9%20%40happ_tmn
 hysteria2://EelIYEc5ZR8RT6thWcK9ohYkp3bYZGcn@137.175.93.155:28795?sni=www.microsoft.com&down=99#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -558,6 +562,7 @@ hysteria2://linlin-2026@13.237.192.121:36712?insecure=1#%F0%9F%87%A6%F0%9F%87%BA
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.70:9042?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=google.com#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?sni=202.146.222.174#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
+vless://73796e63-0000-4000-8000-000000000007@104.21.64.198:2086?type=ws&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=css.rbxcdn.com#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 hysteria2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@213.183.63.60:9098?#%F0%9F%87%A7%F0%9F%87%AC%20%40happ_tmn
@@ -590,13 +595,16 @@ vmess://2bc80e77-9590-4ded-a48b-0eda493f611b@145.239.55.210:80?type=ws&path=/&ho
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?sni=127.0.0.1#%40happ_tmn
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1#%40happ_tmn
+vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21022?type=tcp&host=dog-hk.kunlun01dns.com#%40happ_tmn
 hysteria://163.172.117.163:36699?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=P002-260618&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?type=ws&host=platform128.halalkhor.info#%40happ_tmn
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@188.114.97.6:80?type=ws&path=/ws?ed&host=vmess.lbw666.dpdns.org#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.70:9053?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 vmess://41a7089a-040b-4538-8b8d-010902405bde@140.238.2.250:443?type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?type=ws&host=platform118.halalkhor.info#%40happ_tmn
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&host=uae.unixzone.us#%40happ_tmn
 vmess://0802ac03-7973-39ef-a019-ba02de6c01e1@zfd-boardv2.kunlun01dns.com:16310?type=tcp#%40happ_tmn
+vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@cf.0sm.com:80?type=ws&path=/ws&host=vmess.lbw666.dpdns.org#%40happ_tmn
 ssr://c3NyMi43NjI5ODgueHl6OjMzMzM2OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPThKK0hzL0NmaDdFZ1FHaGhjSEJmZEcxdQ
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MDExbWZvU21ZRlZoQk5iS2swVjVEeHFHczlQd3JzcVkrOUVBaE9sbCs1OD0@129.146.200.49:50356?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=none&type=raw#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -659,7 +667,6 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445?#%F0%9F%87%A8%F0%9F%87%A6%20%40happ_tmn
 hysteria2://0b396097d052915ef304b40d2bda6a2d@179.254.94.184:8443?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.70:9005?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
-vmess://672cdade-bb05-4c86-b578-e5d09b79524a@23.165.200.150:52080?type=http&path=/QQqun-737805443&host=down-cdn.dingtalk.com#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 trojan://1vkFHbQX_gN1U8V8jVc@104.16.242.176:443?type=ws&sni=mhpanel.kigaping.com#%40happ_tmn
 ss://YWVzLTEyOC1nY206MzBhZGQ1NGI4NTJiMjFiN2RkMDFmNzI5ZDdiMDk0NzE@14.1.28.77:10743?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
@@ -674,7 +681,6 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1jZmI6cDV3U2tiMnVNM3BLU1Mzag@91.201.65.122:9074?#%F0%9F%87%AE%F0%9F%87%B9%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.27.21:8388?#%F0%9F%87%AE%F0%9F%87%B9%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.143.66.146:19999?#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&host=sg-vless-ws.bypass.id#%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039?#%F0%9F%87%B1%F0%9F%87%B9%20%40happ_tmn
 hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150.230.252.217:50160?sni=150-230-252-217.liao.kdns.fr&allow_insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ==@tr.subscriptionservice.ir:2089?#%40happ_tmn
@@ -702,6 +708,7 @@ hysteria2://linlin-2026@13.55.52.44:36712?sni=off#%F0%9F%87%A6%F0%9F%87%BA%20%40
 ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.7.10:6666?#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@217.30.10.70:9043?#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@91.201.65.122:9039?#%F0%9F%87%AE%F0%9F%87%B9%20%40happ_tmn
+vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?type=ws&sni=sg-vless-ws.bypass.id&host=sg-vless-ws.bypass.id#%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&peer=bing.com&sub_tag=P002-260618&upmbps=11 Mbps&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20%40happ_tmn
