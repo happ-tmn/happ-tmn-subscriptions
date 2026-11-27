@@ -292,6 +292,7 @@ hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@93.94.52.140:443?sni=inputancho
 hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?auth=04920673-035c-410d-94e4-5b1469d3fb6f#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000?sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&mport=20000-30000#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
+hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@193d0c41-tm96o0-tnggms-6gn6.nw4.hyhuawei.com:443?sni=193d0c41-tm96o0-tnggms-6gn6.nw4.hyhuawei.com#%40happ_tmn
 hysteria://62.210.70.191:24667?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=50&sub_tag=P002-260618&upmbps=10&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=202.146.222.29#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com#%F0%9F%87%B7%F0%9F%87%B4%20%40happ_tmn
@@ -359,6 +360,5 @@ hysteria2://maintell@152.70.237.123:2053?sni=152.70.237.123#%F0%9F%87%B0%F0%9F%8
 hysteria2://7ltdv0p-ThUzWHLNKwejOnmWRVfgq7gswzL34GP_7n8@der.substituteme.space:443?sni=der.substituteme.space#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=t.me#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=vk.com#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
-hysteria2://ePPsH1bMFD@23.141.172.229:50541?insecure=1&sni=is1-ssl.mzstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20%40happ_tmn
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi&obfs=&obfs-password=#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi&insecure=0#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
