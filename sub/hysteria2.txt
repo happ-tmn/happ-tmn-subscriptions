@@ -148,9 +148,11 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?allow_insecure=1&path=/#%
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru#%F0%9F%87%AE%F0%9F%87%B7%20%40happ_tmn
 hysteria2://linlin-2026@13.55.52.44:36712?sni=13.55.52.44#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?sni=47.129.241.99#%F0%9F%87%B8%F0%9F%87%AC%20%40happ_tmn
+hysteria2://e5d92bb5-e2d1-4671-b548-ad7ba10fcf4b@37.9.4.177:443?sni=kk.devmedia.online&obfs=salamander&obfs-password=YiGWDAo6NXCxNhkYOyqtuHyhsTOeBkei#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://68dea054-c7af-439e-a700-0f1c92e72795@186.246.13.65:31005?sni=alb.vpnvpn.best#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://bbc56076-6a7c-44b0-8135-596b6614d492@145.249.109.133:25175?sni=03e488t.es9.h1clayd.click&pinSHA256=a485db68fa1e0d3a712e1fcdb48fe57c5107666159be520f9ce8c77f727b0d88#%F0%9F%87%AA%F0%9F%87%B8%20%40happ_tmn
 hysteria://62.210.124.132:24667?alpn=h3&auth=dongtaiwang.com&downmbps=55&password=dongtaiwang.com&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11&udp=true#%F0%9F%87%AB%F0%9F%87%B7%20%40happ_tmn
+hysteria://198.200.57.142:22335?alpn=h3&auth=github.com/Alvin9999-newpac/fanqiang&downmbps=55&password=github.com/Alvin9999-newpac/fanqiang&servername=bing.com&peer=bing.com&sub_tag=noCache&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8%20%40happ_tmn
 hysteria2://linlin-2026@3.106.35.101:36712?sni=3.106.35.101#%F0%9F%87%A6%F0%9F%87%BA%20%40happ_tmn
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?sni=140.238.213.114#%F0%9F%87%A8%F0%9F%87%AD%20%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=t.me&security=tls#%40happ_tmn
@@ -357,7 +359,7 @@ hysteria2://maintell@152.70.237.123:2053?sni=152.70.237.123#%F0%9F%87%B0%F0%9F%8
 hysteria2://7ltdv0p-ThUzWHLNKwejOnmWRVfgq7gswzL34GP_7n8@der.substituteme.space:443?sni=der.substituteme.space#%40happ_tmn
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?sni=t.me#%F0%9F%87%A8%F0%9F%87%B3%20%40happ_tmn
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=vk.com#%F0%9F%87%B0%F0%9F%87%B7%20%40happ_tmn
-hysteria2://ePPsH1bMFD@23.141.172.229:50541?insecure=1&sni=is1-ssl.mzstatic.com#%F0%9F%87%AD%F0%9F%87%B0%20%40happ_tmn
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
+hysteria2://030e421e-9317-4cb8-8fbe-a07a565ad3db@4f070970.con.metricdraft.tech:443?insecure=0&sni=4f070970.con.metricdraft.tech&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi&obfs=&obfs-password=#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi&insecure=0#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 hysteria2://030e421e-9317-4cb8-8fbe-a07a565ad3db@4f070970.con.metricdraft.tech:443?sni=4f070970.con.metricdraft.tech#%F0%9F%87%AB%F0%9F%87%AE%20%40happ_tmn
