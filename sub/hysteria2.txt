@@ -95,6 +95,7 @@ hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@coastalchart.videostockmarket.o
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@144.31.5.151:443?sni=kiosklist.comparecarprices.org#%F0%9F%87%B5%F0%9F%87%B1%20%40happ_tmn
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@hauloffset.dramatorg.net:443?sni=hauloffset.dramatorg.net&security=tls#%40happ_tmn
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@accountentry.comparecarprices.org:443?sni=accountentry.comparecarprices.org&security=tls#%40happ_tmn
+hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#%F0%9F%87%AF%F0%9F%87%B5%20%40happ_tmn
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@178.17.57.43:443?sni=groupkiosk.ratethatrestaurant.org#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@85.234.100.71:443?sni=collectortransit.ratethatrestaurant.org#%F0%9F%87%A9%F0%9F%87%AA%20%40happ_tmn
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@summarywishlist.comparecarprices.org:443?sni=summarywishlist.comparecarprices.org&security=tls#%40happ_tmn
@@ -124,5 +125,5 @@ hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@147.45.73.182:443?sni=accounten
 hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@217.198.5.195:443?sni=hysteria-gjrao4f1.concept7.ru&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281#%F0%9F%87%B7%F0%9F%87%BA%20%40happ_tmn
 hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@ledgerclient.newbuzideas.org:443?sni=ledgerclient.newbuzideas.org&security=tls#%40happ_tmn
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.163:13337?sni=mother-earth.fyi&insecure=0#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi&insecure=0#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#%F0%9F%87%A6%F0%9F%87%AA%20%40happ_tmn
